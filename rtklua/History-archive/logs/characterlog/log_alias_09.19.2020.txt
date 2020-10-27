@@ -1,0 +1,28 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 19 12:12:29 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Yunsil Tavern(362)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 19 12:13:34 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yunsil Tavern(362)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 19 12:15:41 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yunsil Tavern(362)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 19 12:17:13 2020

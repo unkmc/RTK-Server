@@ -1,0 +1,4 @@
+until /home/CTK/ctk/login-server; do
+    echo "Login server crashed with exit code $?.  Respawning..." >&2
+    sleep 1
+done

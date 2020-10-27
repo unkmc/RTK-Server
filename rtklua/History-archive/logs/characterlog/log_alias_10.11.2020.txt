@@ -1,0 +1,22 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 232,802 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct 11 13:36:16 2020
+<Sun Oct 11 13:40:31 2020> DROPPED: 232750 Coins | @Walsuk Tavern (2) | X: 22 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Yon's Home(1142)
+ 193,378 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct 11 15:20:11 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yon's Home(1142)
+ 193,378 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct 11 20:02:01 2020

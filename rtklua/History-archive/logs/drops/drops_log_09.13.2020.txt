@@ -1,0 +1,1 @@
+<Sun Sep 13 20:13:34 2020> [Squirrel] | @Buya (M: 330 X:81 Y: 27) | Dropped items:  Acorn(1), Acorn(2), Acorn(3), Acorn(50), Gold acorn(1)

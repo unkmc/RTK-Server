@@ -1,0 +1,3 @@
+<Thu Oct 15 12:58:16 2020> Alias(2720): '/item hoof_sabre' | @Pepper Tavern (361)
+<Thu Oct 15 12:58:24 2020> Alias(2720): '/item might_spear' | @Pepper Tavern (361)
+<Thu Oct 15 12:58:28 2020> Alias(2720): '/item bright_staff' | @Pepper Tavern (361)

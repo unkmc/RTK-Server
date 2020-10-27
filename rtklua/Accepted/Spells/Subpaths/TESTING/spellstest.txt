@@ -1,0 +1,21 @@
+* means they are in but not done yet
+
+*Barbarian (Rend) - deals 2x vita every 87 seconds
+Do (Magic Blade) - deals 3x mana vita every 90 seconds, but does not take away much health, safer alternative to rend
+*Chongun (Protector's Will) - sacrifice x% of swing damage to heal y% of damage to party member
+*Chung Ryong (Rage) - much stronger version of rage 81x instead of 50x
+
+*Ranger (Pit Trap) - make it scale based on stats
+*Merchant (Flip coin) - has a 50% chance every 60s to reset aether of lethal strike
+*Spy (Assassinate) - 1/2 dmg lethal strike every 60s
+*Baekho (Cunning 6) - baekho has access to cun 6 instead of a spell
+
+Diviner ??? - possibly something the player can spawn with AI that attacks enemies
+Geomancer (Ice spell) - scale it with mana
+*Shaman (Shaman's torment) - venom type spell that scales with mana
+Ju Jak (Dog lava surge) - scale with mana (evocation stays the same)
+
+*Monk (Son-Kal) - 10% of vita every 10 seconds
+*Druid (Efflorescence) - spawns a flower that heals group members for a small mana scaling %
+*Muse (song of the goddess) - heal over time spell
+Hyun moo (Revival) - stays self res, but also restores mana and health to all group members same map

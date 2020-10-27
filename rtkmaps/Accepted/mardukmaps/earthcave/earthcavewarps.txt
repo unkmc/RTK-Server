@@ -1,0 +1,45 @@
+wilderness, 323, 133, room0, 10, 39
+wilderness, 324, 133, room0, 11, 39
+
+room0, 10, 40, wilderness, 323, 134
+room0, 11, 40, wilderness, 324, 134
+room0, 44, 33, room1, 2, 1
+room0, 44, 34, room1, 3, 1
+
+room1, 2, 0, room0, 43, 33
+room1, 3, 0, room0, 43, 34
+room1, 51, 33, room2, 25, 43
+room1, 51, 34, room2, 25, 43
+
+room2, 24, 43, room1, 50, 33
+room2, 26, 25, room3, 1, 4
+room2, 26, 26, room3, 1, 5
+room2, 57, 1, room6, 21, 26
+room2, 58, 1, room6, 22, 26
+
+room3, 0, 4, room2, 25, 25
+room3, 0, 5, room2, 25, 26
+room3, 69, 32, room4, 1, 45
+room3, 69, 33, room4, 1, 46
+
+room4, 0, 45, room3, 68, 32
+room4, 0, 46, room3, 68, 33
+room4, 0, 28, room5, 49, 38
+room4, 0, 29, room5, 49, 39
+
+room5, 50, 38, room4, 1, 28
+room5, 50, 39, room4, 1, 28
+room5, 50, 40, room4, 1, 29
+room5, 0, 8, room7, 4, 19
+room5, 0, 9, room7, 4, 19
+room5, 0, 10, room7, 5, 19
+
+//sents
+room6, 21, 25, room2, 57, 2
+room6, 22, 25, room2, 58, 2
+
+//boss room
+room7, 4, 20, room5, 1, 8
+room7, 5, 20, room5, 1, 9
+room7, 23, 5, wilderness, 323, 134
+room7, 23, 6, wilderness, 324, 134

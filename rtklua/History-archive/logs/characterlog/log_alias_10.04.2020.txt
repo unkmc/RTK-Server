@@ -1,0 +1,48 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct  4 18:02:56 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Chung Ryong Shrine(1401)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct  4 21:00:44 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Chung Ryong Shrine(1401)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct  4 21:00:48 2020
+<Sun Oct  4 21:09:01 2020> DROPPED: 1 Chung ryong helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:02 2020> DROPPED: 1 Hyun moo helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:10 2020> PICKED UP: 1 Hyun moo helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10 | Shift + Comma
+<Sun Oct  4 21:09:10 2020> PICKED UP: 1 Chung ryong helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10 | Shift + Comma
+<Sun Oct  4 21:09:15 2020> DROPPED: 1 Hyun moo helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:16 2020> DROPPED: 1 Cloth | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:17 2020> DROPPED: 1 Chung ryong helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:17 2020> DROPPED: 2 Hyun moo helm | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:20 2020> DROPPED: 1 Gold acorn | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:09:21 2020> DROPPED: 1 Apple | @Hyun Moo Shrine (1416) | X: 10 Y: 10
+<Sun Oct  4 21:16:30 2020> DROPPED: 1 Ginko wood | @Hyun Moo Shrine (1416) | X: 10 Y: 9
+<Sun Oct  4 21:16:36 2020> DROPPED: 2 Ginko wood | @Hyun Moo Shrine (1416) | X: 10 Y: 9
+<Sun Oct  4 21:16:43 2020> DROPPED: 98 Ginko wood | @Hyun Moo Shrine (1416) | X: 11 Y: 9
+<Sun Oct  4 21:16:47 2020> PICKED UP: 1 Ginko wood | @Hyun Moo Shrine (1416) | X: 10 Y: 9 | Comma
+<Sun Oct  4 21:16:50 2020> DROPPED: 1 Ginko wood | @Hyun Moo Shrine (1416) | X: 10 Y: 9
+<Sun Oct  4 21:16:59 2020> PICKED UP: 1 Ginko wood | @Hyun Moo Shrine (1416) | X: 10 Y: 9 | Comma
+<Sun Oct  4 21:17:52 2020> PICKED UP: 1 Ginko wood | @Hyun Moo Shrine (1416) | X: 11 Y: 9 | Comma
+<Sun Oct  4 21:17:54 2020> PICKED UP: 88 Ginko wood | @Hyun Moo Shrine (1416) | X: 11 Y: 9 | Shift + Comma
+<Sun Oct  4 21:17:55 2020> PICKED UP: 88 Ginko wood | @Hyun Moo Shrine (1416) | X: 11 Y: 9 | Shift + Comma
+<Sun Oct  4 21:18:15 2020> PICKED UP: 88 Ginko wood | @Hyun Moo Shrine (1416) | X: 11 Y: 9 | Shift + Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Tiger Guardroom 1(110)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct  4 21:21:33 2020

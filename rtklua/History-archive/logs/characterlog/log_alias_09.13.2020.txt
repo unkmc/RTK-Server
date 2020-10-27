@@ -1,0 +1,31 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Dok Smith(333)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:12:10 2020
+<Sun Sep 13 20:13:34 2020> LEVELED UP TO: 5 | @Buya (330)
+<Sun Sep 13 20:13:34 2020> Gained 10 from Squirrel | @Buya (330)
+<Sun Sep 13 20:13:51 2020> Gained 10 from Squirrel | @Buya (330)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 242,402 gold.
+ 1,219 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:17:55 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 242,402 gold.
+ 1,219 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:35:20 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 242,402 gold.
+ 1,219 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 22:06:45 2020

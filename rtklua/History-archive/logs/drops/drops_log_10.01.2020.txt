@@ -1,0 +1,3 @@
+<Thu Oct  1 21:45:15 2020> [Black chick] | @Swarmed Steps 1 (M: 214 X:9 Y: 54) | Dropped items:  Chicken meat(1), Egg(1)
+<Thu Oct  1 21:45:58 2020> [Black chick] | @Swarmed Steps 1 (M: 214 X:8 Y: 57) | Dropped items:  Chicken meat(1), Egg(1)
+<Thu Oct  1 21:52:54 2020> [Squirrel] | @Mythic Nexus (M: 41 X:56 Y: 29) | Dropped items:  Acorn(1), Acorn(2), Acorn(3), Acorn(50), Gold acorn(1)

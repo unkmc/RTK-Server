@@ -1,0 +1,36 @@
+wilderness, 357, 357, room0, 10, 33
+wilderness, 358, 357, room0, 11, 33
+
+room0, 10, 34, wilderness, 357, 358
+room0, 11, 34, wilderness, 358, 358
+room0, 33, 4, room1, 4, 15
+
+room1, 4, 14, room0, 33, 5
+room1, 32, 4, room2, 3, 10
+
+room2, 3, 9, room1, 32, 5
+room2, 3, 20, room3, 6, 7
+
+room3, 6, 6, room2, 3, 21
+room3, 9, 20, room4, 5, 12
+room3, 11, 6, room4, 16, 10
+room3, 31, 7, room4, 24, 8
+room3, 32, 17, room4, 37, 20
+
+room4, 5, 11, room3, 9, 21
+room4, 16, 9, room3, 11, 7
+room4, 24, 7, room3, 31, 8
+room4, 37, 19, room3, 32, 18
+room4, 29, 20, room6, 8, 13
+room4, 16, 25, room5, 10, 17
+
+room5, 10, 16, room4, 16, 26
+room5, 10, 6, room7, 8, 3
+
+room6, 7, 14, room4, 29, 21
+room6, 8, 14, room4, 29, 21
+room6, 9, 14, room4, 29, 21
+
+room7, 7, 3, room5, 10, 7
+room7, 2, 14, wilderness, 351, 354
+room7, 2, 15, wilderness, 351, 354

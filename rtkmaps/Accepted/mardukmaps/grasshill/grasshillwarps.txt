@@ -1,0 +1,48 @@
+wilderness, 532, 528, room0, 4, 40
+wilderness, 533, 528, room0, 5, 40
+
+room0, 4, 41, wilderness, 532, 529
+room0, 5, 41, wilderness, 533, 529
+room0, 4, 0, room1, 44, 40
+room0, 5, 0, room1, 45, 40
+room0, 44, 0, room3, 42, 40
+room0, 45, 0, room3, 42, 40
+
+room1, 44, 40, room0, 4, 1
+room1, 45, 40, room0, 5, 1
+room1, 13, 0, room2, 4, 40
+room1, 14, 0, room2, 5, 40
+
+room2, 4, 41, room1, 13, 1
+room2, 5, 41, room1, 14, 1
+room2, 45, 0, room5, 8, 40
+room2, 46, 0, room5, 9, 40
+
+room3, 41, 41, room0, 44, 1
+room3, 42, 41, room0, 45, 1
+room3, 43, 41, room0, 45, 1
+room3, 1, 0, room4, 44, 40
+room3, 2, 0, room4, 45, 40
+room3, 1, 14, room7(sent), 4, 20
+room3, 2, 14, room7(sent), 4, 20
+room3, 3, 14, room7(sent), 5, 20
+
+room4, 44, 41, room3, 1, 1
+room4, 45, 41, room3, 2, 1
+room4, 3, 0, room5, 45, 40
+room4, 4, 0, room5, 46, 40
+
+room5, 8, 41, room2, 45, 1
+room5, 9, 41, room2, 46, 1
+room5, 45, 41, room4, 3, 1
+room5, 46, 41, room4, 4, 1
+room5, 25, 7, room6(boss), 3, 24
+room5, 26, 7, room6(boss), 4, 24
+
+room6, 3, 25, room5, 25, 8
+room6, 4, 25, room5, 26, 8
+room6, 2, 0, wilderness, 532, 529
+room6, 3, 0, wilderness, 533, 529
+
+room7, 4, 21, room3, 2, 15
+room7, 5, 21, room3, 2, 15

@@ -1,0 +1,46 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Baekho Shrine(1406)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct  7 20:48:20 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Monty Hall(3001)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct  7 21:18:38 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Monty Hall(3001)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct  7 21:18:42 2020
+<Wed Oct  7 21:18:53 2020> DROPPED: 30 Ginko wood | @Monty Hall (3001) | X: 6 Y: 11
+<Wed Oct  7 21:22:10 2020> DROPPED: 30 Ginko wood | @Monty Hall (3001) | X: 5 Y: 11
+<Wed Oct  7 21:22:12 2020> PICKED UP: 30 Ginko wood | @Monty Hall (3001) | X: 5 Y: 11 | Shift + Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Monty Hall(3001)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct  7 21:22:25 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Monty Hall(3001)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct  7 21:22:29 2020
+<Wed Oct  7 21:27:34 2020> DROPPED: 30 Ginko wood | @Monty Hall (3001) | X: 6 Y: 11
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct  7 22:07:24 2020

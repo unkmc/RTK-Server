@@ -1,0 +1,41 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 12 13:53:50 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 12 13:54:42 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 12 13:54:46 2020
+<Sat Sep 12 14:37:32 2020> Gained 0 from Giasomo bird | @Buya (330)
+<Sat Sep 12 14:37:37 2020> Gained 0 from Giasomo bird | @Buya (330)
+<Sat Sep 12 14:48:00 2020> DROPPED: 1 Fire orb | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:00 2020> DROPPED: 1 Lucky Ring | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:01 2020> DROPPED: 1 Earth helm | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:01 2020> DROPPED: 1 Merchant helm | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:01 2020> DROPPED: 1 Farmer helm | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:02 2020> DROPPED: 1 Royal helm | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:03 2020> DROPPED: 1 Sky helm | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:03 2020> DROPPED: 1 Tao stone | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:03 2020> DROPPED: 1 Magical dust | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:04 2020> DROPPED: 1 Battle helm | @Dok Smith (333) | X: 5 Y: 3
+<Sat Sep 12 14:48:05 2020> DROPPED: 1 Pearl charm | @Dok Smith (333) | X: 5 Y: 3
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Dok Smith(333)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Sep 12 14:56:38 2020

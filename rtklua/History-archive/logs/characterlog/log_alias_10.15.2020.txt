@@ -1,0 +1,21 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yunsil Tavern(362)
+ 911,081 gold.
+ 1,000,000,000 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct 15 12:57:58 2020
+<Thu Oct 15 12:58:03 2020> DROPPED: 1 Lean beef | @Pepper Tavern (361) | X: 4 Y: 5
+<Thu Oct 15 12:58:03 2020> DROPPED: 1 Bear fur | @Pepper Tavern (361) | X: 4 Y: 5
+<Thu Oct 15 12:58:04 2020> DROPPED: 1 Rat meat | @Pepper Tavern (361) | X: 4 Y: 5
+<Thu Oct 15 12:58:04 2020> DROPPED: 1 Wolf Meat | @Pepper Tavern (361) | X: 4 Y: 5
+<Thu Oct 15 12:58:05 2020> DROPPED: 1 Horse meat | @Pepper Tavern (361) | X: 4 Y: 5
+<Thu Oct 15 12:58:05 2020> DROPPED: 1 Green squirrel pelt | @Pepper Tavern (361) | X: 4 Y: 5
+<Thu Oct 15 12:58:06 2020> DROPPED: 1 Egg | @Pepper Tavern (361) | X: 4 Y: 5
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 911,081 gold.
+ 1,000,000,000 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct 15 12:58:40 2020

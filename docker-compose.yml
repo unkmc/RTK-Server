@@ -1,0 +1,32 @@
+version: '3.8'
+services:
+  server:
+    image: rtk-server:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: tail -F /dev/null # TODO: Add commands to build/run servers
+    restart: always
+    ports:
+      - "2000:2000"
+      - "2001:2001"
+      - "2005:2005"
+    volumes:
+      - "./rtk:/home/RTK/rtk"
+      - "./rtklua:/home/RTK/rtklua"
+      - "./rtkmaps:/home/RTK/rtkmaps"
+    # TODO: Add volume for automated database backups
+
+  database:
+    image: mysql/mysql-server:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 'definitelyChangeMe'
+      MYSQL_USER: 'rtk'
+      MYSQL_PASSWORD: 'changeMe'
+      MYSQL_DATABASE: 'RTK'
+    ports:
+      - "3306:3306"
+    volumes:
+      - "./database/scripts:/docker-entrypoint-initdb.d" # Every script in docker-entrypoint-initdb.d is executed in alphabetical order as soon as the container starts
+      # TODO: Add volume to persist data

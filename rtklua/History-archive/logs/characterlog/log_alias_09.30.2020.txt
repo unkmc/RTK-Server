@@ -1,0 +1,71 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 30 16:09:39 2020
+<Wed Sep 30 16:25:31 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:25:43 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:25:44 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:28:19 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:28:25 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:28:28 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:28:30 2020> Gained 50 from Deer | @Mythic Nexus (41)
+<Wed Sep 30 16:28:34 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:07 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:09 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:16 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:25 2020> Gained 0 from test | @Mythic Nexus (41)
+<Wed Sep 30 16:29:29 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:33 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:34 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:36 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:37 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:40 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:45 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:48 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:50 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:51 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:54 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:55 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:57 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:29:59 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:00 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:03 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:05 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:08 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:11 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:14 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:15 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:18 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:22 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:25 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:33 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:36 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:38 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:41 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:45 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Wed Sep 30 16:30:49 2020> Gained 50 from Deer | @Mythic Nexus (41)
+<Wed Sep 30 16:30:51 2020> Gained 50 from Deer | @Mythic Nexus (41)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Mythic Nexus(41)
+ 234,202 gold.
+ 4,000,001,100 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 30 16:59:27 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Mythic Nexus(41)
+ 234,202 gold.
+ 4,000,001,100 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 30 20:02:42 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Spring Tavern(332)
+ 234,202 gold.
+ 4,000,001,100 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 30 21:04:41 2020

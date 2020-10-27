@@ -1,0 +1,105 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  8 19:35:24 2020
+<Thu Oct  8 19:40:37 2020> Gained 6,000 from Black chick | @Yebaek Sanctum (366)
+<Thu Oct  8 19:58:46 2020> Gained 6,000 from Black chick | @Yebaek Sanctum (366)
+<Thu Oct  8 20:04:16 2020> Gained 18,000 from Lesser skeleton | @Yebaek Sanctum (366)
+<Thu Oct  8 20:13:32 2020> Gained 7,000 from Mythic mouse | @Yebaek Sanctum (366)
+<Thu Oct  8 20:14:27 2020> Gained 440,000 from Muck ogre | @Yebaek Sanctum (366)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Yebaek Sanctum(366)
+ 234,102 gold.
+ 36,154,000 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  8 20:18:35 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yebaek Sanctum(366)
+ 234,102 gold.
+ 36,154,000 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  8 20:18:40 2020
+<Thu Oct  8 20:21:35 2020> Gained 570,000 from Mythic horse | @Hooved Sands 1* (247)
+<Thu Oct  8 20:21:35 2020> Gained 44,000 from Skilled horse | @Hooved Sands 1* (247)
+<Thu Oct  8 20:21:35 2020> Gained 340,000 from Horse guardsman | @Hooved Sands 1* (247)
+<Thu Oct  8 20:24:42 2020> Gained 200 from Bear | @Yebaek Sanctum (366)
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yebaek Sanctum(366)
+ 234,102 gold.
+ 49,062,400 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  8 20:25:38 2020
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 2 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 3 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 4 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 5 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 6 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 7 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 8 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 9 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 10 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 11 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 12 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 13 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 14 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 15 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 16 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 17 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 18 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 19 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 20 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 21 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 22 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 23 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 24 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 25 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 26 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 27 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 28 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 29 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 30 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 31 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 32 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 33 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 34 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 35 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 36 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 37 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 38 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 39 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 40 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 41 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 42 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 43 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 44 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 45 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 46 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 47 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 48 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 49 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 50 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 51 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 52 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 53 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 54 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 55 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 56 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 57 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 58 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 59 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 60 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> LEVELED UP TO: 61 | @Yebaek Sanctum (366)
+<Thu Oct  8 20:33:53 2020> Gained 640 from Wolf | @Yebaek Sanctum (366)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Yebaek Sanctum(366)
+ 234,102 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  8 20:40:36 2020

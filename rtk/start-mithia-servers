@@ -1,0 +1,7 @@
+cd /home/CTK/ctk
+nohup login-server-monitor > logs/login-server-monitor_$(date +%Y-%m-%d).log 2>&1 &
+echo $! > logs/login-server-monitor_pid.txt
+nohup char-server-monitor > logs/char-server-monitor_$(date +%Y-%m-%d).log 2>&1 &
+echo $! > logs/char-server-monitor_pid.txt
+nohup map-server-monitor > logs/map-server-monitor_$(date +%Y-%m-%d).log 2>&1 &
+echo $! > logs/map-server-monitor_pid.txt

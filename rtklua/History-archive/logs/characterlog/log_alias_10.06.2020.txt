@@ -1,0 +1,191 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Tiger Guardroom 1(110)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 10:55:09 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Test(1072)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:02:01 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Test(1072)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:02:24 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Nagnang Fairgrounds(2998)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:17:44 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Nagnang Fairgrounds(2998)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:17:49 2020
+<Tue Oct  6 11:20:39 2020> DROPPED: 1 White amber | @Mythic Nexus (41) | X: 27 Y: 48
+<Tue Oct  6 11:20:40 2020> DROPPED: 1 White amber | @Mythic Nexus (41) | X: 26 Y: 48
+<Tue Oct  6 11:20:44 2020> PICKED UP: 1 White amber | @Mythic Nexus (41) | X: 27 Y: 48 | Ctrl + Comma
+<Tue Oct  6 11:20:44 2020> PICKED UP: 1 White amber | @Mythic Nexus (41) | X: 27 Y: 48 | Ctrl + Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:33:14 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:33:18 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:33:58 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 11:34:01 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 12:18:59 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Mythic Nexus(41)
+ 234,102 gold.
+ 4,000,157,140 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 12:20:15 2020
+<Tue Oct  6 12:22:36 2020> DROPPED: 1 Amber | @Monty Hall (3001) | X: 6 Y: 11
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 12:59:02 2020
+<Tue Oct  6 12:59:14 2020> DROPPED: 99 Amber | @Buya (330) | X: 46 Y: 100
+<Tue Oct  6 12:59:21 2020> PICKED UP: 1 Amber | @Buya (330) | X: 46 Y: 100 | Comma
+<Tue Oct  6 12:59:37 2020> DROPPED: 100 Amber | @Buya (330) | X: 46 Y: 100
+<Tue Oct  6 13:00:14 2020> PICKED UP: 1 Amber | @Buya (330) | X: 46 Y: 100 | Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 13:00:19 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 16:36:06 2020
+<Tue Oct  6 16:36:15 2020> DROPPED: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:36:19 2020> PICKED UP: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 7 | Comma
+<Tue Oct  6 16:36:39 2020> DROPPED: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:36:40 2020> DROPPED: 2 Amber | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:36:43 2020> PICKED UP: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 7 | Comma
+<Tue Oct  6 16:36:50 2020> DROPPED: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:36:52 2020> PICKED UP: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 7 | Comma
+<Tue Oct  6 16:37:54 2020> DROPPED: 1 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:55 2020> DROPPED: 2 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:55 2020> DROPPED: 3 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:55 2020> DROPPED: 4 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:56 2020> DROPPED: 5 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:56 2020> DROPPED: 6 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:56 2020> DROPPED: 7 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:57 2020> DROPPED: 8 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:57 2020> DROPPED: 9 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:58 2020> DROPPED: 10 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:58 2020> DROPPED: 11 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:59 2020> DROPPED: 12 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:37:59 2020> DROPPED: 13 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:38:00 2020> DROPPED: 14 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:38:00 2020> DROPPED: 15 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:38:01 2020> DROPPED: 16 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:38:01 2020> DROPPED: 17 Electra | @Pepper Tavern (361) | X: 4 Y: 7
+<Tue Oct  6 16:45:05 2020> DROPPED: 1 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:12 2020> DROPPED: 2 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:12 2020> DROPPED: 3 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:13 2020> DROPPED: 4 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:13 2020> DROPPED: 5 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:14 2020> DROPPED: 6 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:14 2020> DROPPED: 7 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:14 2020> DROPPED: 8 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:15 2020> DROPPED: 9 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:17 2020> DROPPED: 10 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:45:25 2020> DROPPED: 100 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:46:21 2020> DROPPED: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 5
+<Tue Oct  6 16:46:22 2020> DROPPED: 99 Amber | @Pepper Tavern (361) | X: 5 Y: 5
+<Tue Oct  6 16:46:23 2020> PICKED UP: 1 Amber | @Pepper Tavern (361) | X: 4 Y: 5 | Comma
+<Tue Oct  6 16:46:43 2020> DROPPED: 101 Amber | @Monty Hall (3001) | X: 6 Y: 11
+<Tue Oct  6 16:47:05 2020> DROPPED: 1 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:06 2020> DROPPED: 2 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:06 2020> DROPPED: 3 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:06 2020> DROPPED: 4 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:07 2020> DROPPED: 5 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:07 2020> DROPPED: 6 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:07 2020> DROPPED: 7 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:08 2020> DROPPED: 8 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:08 2020> DROPPED: 9 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:08 2020> DROPPED: 10 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:09 2020> DROPPED: 11 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:10 2020> DROPPED: 12 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:10 2020> DROPPED: 13 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:11 2020> DROPPED: 14 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:12 2020> DROPPED: 15 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:13 2020> DROPPED: 16 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:13 2020> DROPPED: 17 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:14 2020> DROPPED: 18 Electra | @Monty Hall (3001) | X: 7 Y: 11
+<Tue Oct  6 16:47:30 2020> DROPPED: 199 Amber | @Pepper Tavern (361) | X: 5 Y: 5
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 17:02:48 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.5500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 20:51:14 2020
+<Tue Oct  6 21:07:21 2020> DROPPED: 234102 Coins | @Baekho Shrine (1406) | X: 10 Y: 10
+<Tue Oct  6 21:07:32 2020> DROPPED: 1 Baekho key | @Baekho Shrine (1406) | X: 10 Y: 10
+<Tue Oct  6 21:07:42 2020> PICKED UP: 1 Baekho key | @Baekho Shrine (1406) | X: 10 Y: 10 | Shift + Comma
+<Tue Oct  6 21:09:20 2020> DROPPED: 1 Baekho helm | @Baekho Shrine (1406) | X: 10 Y: 10
+<Tue Oct  6 21:09:21 2020> DROPPED: 2 Baekho helm | @Baekho Shrine (1406) | X: 10 Y: 10
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Baekho Shrine(1406)
+ 234,102 gold.
+ 4,294,967,295 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Oct  6 21:09:25 2020

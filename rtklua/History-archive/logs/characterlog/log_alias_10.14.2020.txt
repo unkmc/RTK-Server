@@ -1,0 +1,32 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Caretaker's room(4709)
+ 943,031 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct 14 19:48:13 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Maso Sanctum(368)
+ 943,031 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct 14 20:14:46 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Maso Sanctum(368)
+ 943,031 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct 14 20:25:44 2020
+<Wed Oct 14 20:28:13 2020> DROPPED: 1 Apple | @Min's Shop (1029) | X: 5 Y: 9
+<Wed Oct 14 20:28:15 2020> DROPPED: 1 Beef | @Min's Shop (1029) | X: 5 Y: 9
+<Wed Oct 14 20:28:20 2020> DROPPED: 1 Chicken meat | @Min's Shop (1029) | X: 5 Y: 9
+<Wed Oct 14 20:28:32 2020> DROPPED: 1 Egg | @Min's Shop (1029) | X: 5 Y: 9
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Yunsil Tavern(362)
+ 911,081 gold.
+ 1,000,000,000 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Oct 14 21:47:50 2020

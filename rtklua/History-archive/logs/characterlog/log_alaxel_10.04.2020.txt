@@ -1,0 +1,14 @@
+==== [Login] ==================================================================
+ Alaxel has logged in ~ @Yunsil Tavern(362)
+ 88,724 gold.
+ 176,183,144 experience.
+ 10 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct  4 21:21:10 2020
+==== [Logout] ==================================================================
+ Alaxel has logged out ~ @Tiger Guardroom 1(110)
+ 88,724 gold.
+ 176,183,144 experience.
+ 10 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Oct  4 21:21:30 2020

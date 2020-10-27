@@ -1,0 +1,62 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Leviathan Hermit(2539)
+ 242,352 gold.
+ 1,219 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 19:42:41 2020
+<Wed Sep 16 19:49:10 2020> LEVELED UP TO: 2 | @Nagnang (2500)
+<Wed Sep 16 19:49:10 2020> LEVELED UP TO: 3 | @Nagnang (2500)
+<Wed Sep 16 19:49:10 2020> LEVELED UP TO: 4 | @Nagnang (2500)
+<Wed Sep 16 19:49:10 2020> LEVELED UP TO: 5 | @Nagnang (2500)
+<Wed Sep 16 19:49:10 2020> Gained 10 from Squirrel | @Nagnang (2500)
+<Wed Sep 16 19:49:45 2020> Gained 120 from Strange thing | @Nagnang (2500)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Hermit Home(2540)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 20:36:04 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Hermit Home(2540)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 20:38:59 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Hermit Home(2540)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 20:50:16 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Hermit Home(2540)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 20:50:46 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Hermit Home(2540)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 20:56:49 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Hermit Home(2540)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 20:57:11 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Wed Sep 16 21:13:59 2020

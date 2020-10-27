@@ -1,0 +1,35 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Thane's Cave(1144)
+ 181,706 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Oct 12 11:23:30 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Cave(522)
+ 181,706 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Oct 12 11:35:54 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Noxhil Home(1031)
+ 181,654 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Oct 12 11:59:21 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Noxhil Home(1031)
+ 181,654 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Oct 12 12:00:56 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Caretaker's room(4709)
+ 943,031 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Oct 12 12:37:00 2020

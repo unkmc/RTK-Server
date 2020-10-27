@@ -1,0 +1,410 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 12:29:15 2020
+<Mon Sep 28 12:29:41 2020> DROPPED: 1 Tainted staff | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:42 2020> DROPPED: 1 Cursed staff | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:42 2020> DROPPED: 1 Corrupted staff | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:43 2020> DROPPED: 1 Forsaken staff | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:43 2020> DROPPED: 1 Death's head | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:44 2020> DROPPED: 1 Chaos blade | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:45 2020> DROPPED: 2 Rose | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:48 2020> DROPPED: 1 Staff of defense | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:49 2020> DROPPED: 1 Swift sword | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:49 2020> DROPPED: 1 Staff of power | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:53 2020> DROPPED: 1 Steel shield | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:29:54 2020> DROPPED: 1 Dragon's liver | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 12:30:06 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 12:30:12 2020
+<Mon Sep 28 12:33:40 2020> DROPPED: 1 Staff of defense | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:33:42 2020> DROPPED: 1 Staff of power | @Buya (330) | X: 39 Y: 107
+<Mon Sep 28 12:33:52 2020> PICKED UP: 1 Staff of power | @Buya (330) | X: 39 Y: 107 | Comma
+<Mon Sep 28 12:33:53 2020> PICKED UP: 1 Staff of defense | @Buya (330) | X: 40 Y: 107 | Comma
+<Mon Sep 28 12:34:11 2020> DROPPED: 1 Tainted staff | @Buya (330) | X: 40 Y: 107
+<Mon Sep 28 12:34:15 2020> PICKED UP: 1 Tainted staff | @Buya (330) | X: 40 Y: 107 | Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 12:39:30 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 19:54:45 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 19:54:52 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 19:54:57 2020
+<Mon Sep 28 19:55:11 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:12 2020> DROPPED: 1 Hunang's axe | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:13 2020> DROPPED: 1 Moonblade | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:13 2020> DROPPED: 1 Death's head | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:13 2020> DROPPED: 1 Swift dagger | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:14 2020> DROPPED: 1 Tainted blade | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:14 2020> DROPPED: 1 Giasomo stick | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:15 2020> DROPPED: 1 Staff of defense | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:15 2020> DROPPED: 1 Sword of power | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:16 2020> DROPPED: 1 Iron sword | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:17 2020> DROPPED: 2 Sword of power | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:18 2020> DROPPED: 1 Giasomo stick | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:55:20 2020> DROPPED: 1 Staff of power | @Pepper Tavern (361) | X: 4 Y: 6
+<Mon Sep 28 19:56:33 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:56:35 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:56:36 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:56:43 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:56:54 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:57:03 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:57:59 2020> DROPPED: 2 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:58:20 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:58:27 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:58:34 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:58:42 2020> DROPPED: 2 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:58:48 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 19:58:56 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:00:18 2020> DROPPED: 3 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:00:18 2020> DROPPED: 1 Death's head | @Pepper Tavern (361) | X: 5 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:09:12 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:09:16 2020
+<Mon Sep 28 20:09:37 2020> DROPPED: 1 Sword of power | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:09:37 2020> DROPPED: 1 Ice sabre | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:09:38 2020> DROPPED: 1 Swift dagger | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:09:38 2020> DROPPED: 1 Staff of power | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:09:39 2020> DROPPED: 1 Staff of defense | @Pepper Tavern (361) | X: 5 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:24:33 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:24:37 2020
+<Mon Sep 28 20:24:39 2020> DROPPED: 1 Sword of power | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:24:40 2020> DROPPED: 1 Frost sabre | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:24:40 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:24:40 2020> DROPPED: 1 Tainted blade | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:24:41 2020> DROPPED: 1 Iron sword | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:24:41 2020> DROPPED: 1 Hunang's axe | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:26:51 2020> DROPPED: 1 Axe | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:26:51 2020> DROPPED: 1 Hunang's axe | @Pepper Tavern (361) | X: 5 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:26:59 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:27:03 2020
+<Mon Sep 28 20:30:03 2020> DROPPED: 1 Titanium lance | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:04 2020> DROPPED: 1 Jolt trident | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:05 2020> DROPPED: 1 Electra | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:06 2020> DROPPED: 1 Ice sabre | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:06 2020> DROPPED: 1 Cursed blade | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:07 2020> DROPPED: 1 Cursed staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:08 2020> DROPPED: 1 Maxcaliber | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:09 2020> DROPPED: 1 Hunang's axe | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:30:09 2020> DROPPED: 1 Axe | @Pepper Tavern (361) | X: 5 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:33:49 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:33:53 2020
+<Mon Sep 28 20:34:56 2020> DROPPED: 1 Dark staff | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:35:00 2020> PICKED UP: 1 Dark staff | @Pepper Tavern (361) | X: 5 Y: 7 | Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:38:08 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:38:12 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:40:05 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:40:08 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:40:32 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:40:36 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:42:10 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:42:14 2020
+<Mon Sep 28 20:47:41 2020> DROPPED: 1 Spike | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:42 2020> DROPPED: 1 Frozen spear | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:43 2020> DROPPED: 1 Corrupted blade | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:44 2020> DROPPED: 1 Cursed staff | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:44 2020> DROPPED: 1 Cursed blade | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:45 2020> DROPPED: 1 Corrupted staff | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:45 2020> DROPPED: 1 Chung Ryong scale | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:45 2020> DROPPED: 1 Maxcaliber | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:46 2020> DROPPED: 1 Dark staff | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:46 2020> DROPPED: 1 Titanium blade | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:46 2020> DROPPED: 1 Military fork | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:47 2020> DROPPED: 1 Light sword1 | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:48 2020> DROPPED: 1 Light sword | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:48 2020> DROPPED: 1 Light sword1 | @Pepper Tavern (361) | X: 7 Y: 8
+<Mon Sep 28 20:47:48 2020> DROPPED: 1 Light sword2 | @Pepper Tavern (361) | X: 7 Y: 8
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:47:55 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:47:59 2020
+<Mon Sep 28 20:48:31 2020> DROPPED: 1 Light sword1 | @Pepper Tavern (361) | X: 6 Y: 8
+<Mon Sep 28 20:48:43 2020> DROPPED: 1 Light sword2 | @Pepper Tavern (361) | X: 6 Y: 8
+<Mon Sep 28 20:48:51 2020> DROPPED: 1 Light sword3 | @Pepper Tavern (361) | X: 6 Y: 8
+<Mon Sep 28 20:51:33 2020> DROPPED: 1 Light sword | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:33 2020> DROPPED: 1 Light sword4 | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:35 2020> DROPPED: 1 Light sword5 | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:35 2020> DROPPED: 1 Light sword6 | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:36 2020> DROPPED: 1 Light sword7 | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:36 2020> DROPPED: 1 Light sword8 | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:37 2020> DROPPED: 1 Light sword10 | @Pepper Tavern (361) | X: 5 Y: 7
+<Mon Sep 28 20:51:40 2020> DROPPED: 1 Light sword9 | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 20:51:44 2020> PICKED UP: 1 Light sword9 | @Pepper Tavern (361) | X: 6 Y: 7 | Comma
+<Mon Sep 28 20:54:10 2020> DROPPED: 1 Forsaken staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 20:54:10 2020> DROPPED: 1 Light sword9 | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 20:54:11 2020> DROPPED: 1 Big axe | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 20:54:12 2020> DROPPED: 1 Corrupted staff | @Pepper Tavern (361) | X: 6 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:54:20 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:54:23 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:56:54 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:56:57 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:59:15 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 20:59:19 2020
+<Mon Sep 28 21:01:25 2020> DROPPED: 1 Might spear | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:01:28 2020> PICKED UP: 1 Might spear | @Pepper Tavern (361) | X: 6 Y: 7 | Comma
+<Mon Sep 28 21:03:11 2020> DROPPED: 1 Sa san spike | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:12 2020> DROPPED: 1 Chaos blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:12 2020> DROPPED: 1 Midnight broadsword | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:13 2020> DROPPED: 1 Faerie light | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:13 2020> DROPPED: 1 Stone axe | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:14 2020> DROPPED: 1 Crystal staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:14 2020> DROPPED: 1 Might spear | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:15 2020> DROPPED: 1 Dark scimitar | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:15 2020> DROPPED: 1 Bright staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:16 2020> DROPPED: 1 Light sword | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:16 2020> DROPPED: 1 Corrupted blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:17 2020> DROPPED: 1 Cursed staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:17 2020> DROPPED: 1 Forsaken staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:18 2020> DROPPED: 1 Tainted staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:18 2020> DROPPED: 1 Forsaken blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:19 2020> DROPPED: 1 Cursed blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:19 2020> DROPPED: 1 Corrupted staff | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:03:20 2020> DROPPED: 1 Tainted blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:06:14 2020> DROPPED: 1 Fox blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:06:15 2020> PICKED UP: 1 Fox blade | @Pepper Tavern (361) | X: 6 Y: 7 | Comma
+<Mon Sep 28 21:14:05 2020> DROPPED: 1 Sevenleaf sword | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:06 2020> DROPPED: 1 Midnight sword | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:07 2020> DROPPED: 1 Flameblade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:07 2020> DROPPED: 1 Mythic sabre | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:11 2020> DROPPED: 1 Light broadsword | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:12 2020> DROPPED: 1 Dark dagger | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:12 2020> DROPPED: 1 Hoof sabre | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:13 2020> DROPPED: 1 Swift sword | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:13 2020> DROPPED: 1 Nimble blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:14 2020> DROPPED: 1 Blood | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:15 2020> DROPPED: 1 Flamefang | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:16 2020> DROPPED: 1 Steelthorn | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:16 2020> DROPPED: 1 White moon axe | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:17 2020> DROPPED: 1 Axe | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:19 2020> PICKED UP: 1 Axe | @Pepper Tavern (361) | X: 6 Y: 7 | Comma
+<Mon Sep 28 21:14:20 2020> PICKED UP: 1 White moon axe | @Pepper Tavern (361) | X: 6 Y: 7 | Comma
+<Mon Sep 28 21:14:21 2020> DROPPED: 1 Swift dagger | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:21 2020> DROPPED: 1 Fox blade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:14:22 2020> DROPPED: 1 Moonblade | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:15:29 2020> DROPPED: 1 Wand of fire | @Pepper Tavern (361) | X: 6 Y: 7
+<Mon Sep 28 21:15:29 2020> DROPPED: 1 Staff of power | @Pepper Tavern (361) | X: 6 Y: 7
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:17:57 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:18:00 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:18:55 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:18:59 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:19:45 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:19:48 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Mon Sep 28 21:21:00 2020

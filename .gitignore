@@ -1,0 +1,144 @@
+#####
+# C #
+#####
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+#######
+# Lua #
+#######
+
+# Compiled Lua sources
+luac.out
+
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+# Object files
+*.o
+*.os
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+######################
+# Visual Studio Code #
+######################
+
+.vscode/
+
+#######
+# RTK #
+#######
+
+# C log files
+/rtk/*log.txt
+/rtk/logs/*
+/rtk/logs-archive/*
+!/rtk/logs/.gitignore
+!/rtk/logs-archive/.gitignore
+
+# Client files
+!/client/**/*.*
+
+# Lua log files
+/rtklua/History/logs/**/*.txt
+
+# Meta data
+/rtk/metan
+/rtk/meta/CharicInfo*
+/rtk/meta/ItemInfo*
+
+# Server builds
+/rtk/char-server
+/rtk/decrypt
+/rtk/login-server
+/rtk/map-server
+
+# Local scripts
+/rtklua/auto-format-lua-scripts.bat
+
+# Maps
+!/rtkmaps/**/*.map
+
+# Database backups
+/database/history/*.sql

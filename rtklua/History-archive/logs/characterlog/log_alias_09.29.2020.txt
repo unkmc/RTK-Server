@@ -1,0 +1,420 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 11:56:41 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Spring Tavern(332)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 11:56:49 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 11:56:54 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 11:59:03 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:28:08 2020
+<Tue Sep 29 19:30:27 2020> DROPPED: 1 Jade diamond | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:03 2020> PICKED UP: 1 Jade diamond | @Buya (330) | X: 40 Y: 107 | Comma
+<Tue Sep 29 19:31:41 2020> DROPPED: 1 Staff of defense | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:42 2020> DROPPED: 1 Poet whip | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:42 2020> DROPPED: 1 Winter scepter | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:43 2020> DROPPED: 1 Titanium blade | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:43 2020> DROPPED: 1 Nimble blade | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:43 2020> DROPPED: 1 Hoof sabre | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:44 2020> DROPPED: 1 Azure diamond | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:45 2020> DROPPED: 1 Jade diamond | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:45 2020> DROPPED: 1 Forest diamond | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:31:46 2020> DROPPED: 2 Jade diamond | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:38:26 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:38:30 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:39:40 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:39:45 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:43:29 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:43:38 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:50:07 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:50:10 2020
+<Tue Sep 29 19:52:03 2020> DROPPED: 1 Enchanted ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:52:03 2020> DROPPED: 1 Magic ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:52:04 2020> DROPPED: 1 Magician's ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:52:04 2020> DROPPED: 1 Master's ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:52:04 2020> DROPPED: 1 Mage's ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 19:52:57 2020> DROPPED: 1 Essence charm | @Buya (330) | X: 41 Y: 108
+<Tue Sep 29 19:52:59 2020> PICKED UP: 1 Essence charm | @Buya (330) | X: 41 Y: 108 | Comma
+<Tue Sep 29 19:53:04 2020> DROPPED: 1 Essence charm | @Buya (330) | X: 41 Y: 108
+<Tue Sep 29 19:53:06 2020> PICKED UP: 1 Essence charm | @Buya (330) | X: 41 Y: 108 | Comma
+<Tue Sep 29 19:53:18 2020> DROPPED: 1 Essence charm | @Buya (330) | X: 41 Y: 108
+<Tue Sep 29 19:53:21 2020> PICKED UP: 1 Essence charm | @Buya (330) | X: 41 Y: 108 | Comma
+<Tue Sep 29 19:53:36 2020> DROPPED: 1 Nature charm | @Buya (330) | X: 41 Y: 108
+<Tue Sep 29 19:53:39 2020> PICKED UP: 1 Nature charm | @Buya (330) | X: 41 Y: 108 | Comma
+<Tue Sep 29 19:53:42 2020> DROPPED: 1 Soul charm | @Buya (330) | X: 41 Y: 108
+<Tue Sep 29 19:53:42 2020> PICKED UP: 1 Soul charm | @Buya (330) | X: 41 Y: 108 | Comma
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 19:58:45 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:13:03 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:13:10 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:13:13 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:15:37 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:15:44 2020
+<Tue Sep 29 20:22:14 2020> DROPPED: 1 test4 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:22:14 2020> DROPPED: 1 test0 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:22:15 2020> DROPPED: 1 test1 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:22:15 2020> DROPPED: 1 test2 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:22:16 2020> DROPPED: 1 test3 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:25:02 2020> DROPPED: 1 test5 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:25:02 2020> DROPPED: 1 test6 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:25:03 2020> DROPPED: 1 test9 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:25:03 2020> DROPPED: 1 test7 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:25:04 2020> DROPPED: 1 test8 | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:25:56 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:25:59 2020
+<Tue Sep 29 20:33:12 2020> DROPPED: 1 test0 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:33:12 2020> DROPPED: 1 test1 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:33:12 2020> DROPPED: 1 test2 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:33:13 2020> DROPPED: 1 test3 | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:35:24 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:35:30 2020
+<Tue Sep 29 20:35:38 2020> DROPPED: 1 Essence charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:38 2020> DROPPED: 1 Nature charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:38 2020> DROPPED: 1 Soul charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:39 2020> DROPPED: 1 Spirit charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:40 2020> DROPPED: 1 Life charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:40 2020> DROPPED: 1 Immortality charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 Immortality charm | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 Life charm | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 Spirit charm | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 Soul charm | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 Nature charm | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 Essence charm | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 test3 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 test2 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 test1 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:42 2020> PICKED UP: 1 test0 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:44 2020> DROPPED: 1 test3 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:45 2020> DROPPED: 1 test4 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:45 2020> DROPPED: 1 test5 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:46 2020> DROPPED: 1 test6 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:35:47 2020> PICKED UP: 1 test6 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:47 2020> PICKED UP: 1 test5 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:47 2020> PICKED UP: 1 test4 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:47 2020> PICKED UP: 1 test3 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:47 2020> PICKED UP: 1 test0 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:47 2020> PICKED UP: 1 test1 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:50 2020> DROPPED: 1 test6 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:50 2020> DROPPED: 1 test5 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:51 2020> DROPPED: 1 test4 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:51 2020> DROPPED: 1 test3 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:51 2020> DROPPED: 1 test7 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:52 2020> DROPPED: 1 test8 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:52 2020> DROPPED: 1 test9 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:53 2020> DROPPED: 1 test2 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:53 2020> DROPPED: 2 test2 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:55 2020> PICKED UP: 1 test1 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:55 2020> PICKED UP: 1 test0 | @Buya (330) | X: 40 Y: 107 | Shift + Comma
+<Tue Sep 29 20:35:58 2020> DROPPED: 1 test1 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:35:58 2020> DROPPED: 1 test0 | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:36:00 2020> DROPPED: 1 War amulet | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 20:39:50 2020> DROPPED: 1 Essence charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:39:51 2020> DROPPED: 1 Nature charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:39:51 2020> DROPPED: 1 Soul charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:39:51 2020> DROPPED: 1 Spirit charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:39:51 2020> DROPPED: 1 Love charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:39:52 2020> DROPPED: 1 Life charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:39:52 2020> DROPPED: 1 Immortality charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 20:40:18 2020> DROPPED: 1 Mage's ward | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:41:48 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:41:52 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:42:05 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:42:09 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:43:27 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:43:30 2020
+<Tue Sep 29 20:43:33 2020> DROPPED: 1 test1 | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:51:27 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:51:31 2020
+<Tue Sep 29 20:51:58 2020> DROPPED: 1 test0 | @Buya (330) | X: 40 Y: 108
+<Tue Sep 29 20:52:12 2020> DROPPED: 1 test9 | @Buya (330) | X: 40 Y: 108
+<Tue Sep 29 20:52:17 2020> DROPPED: 1 test6 | @Buya (330) | X: 40 Y: 108
+<Tue Sep 29 20:52:21 2020> DROPPED: 1 test7 | @Buya (330) | X: 40 Y: 108
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:53:36 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:53:39 2020
+<Tue Sep 29 20:53:57 2020> DROPPED: 1 test2 | @Buya (330) | X: 40 Y: 108
+<Tue Sep 29 20:54:08 2020> DROPPED: 1 Magician's ward | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:54:28 2020> DROPPED: 1 test5 | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:54:40 2020> DROPPED: 1 test1 | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:54:50 2020> DROPPED: 1 test4 | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:54:58 2020> DROPPED: 1 test3 | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:57:24 2020> DROPPED: 1 Stone shield | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:57:24 2020> DROPPED: 1 Enchanted ward | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:57:24 2020> DROPPED: 1 Mage's ward | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:57:24 2020> DROPPED: 1 Magic ward | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:57:25 2020> DROPPED: 1 test8 | @Buya (330) | X: 41 Y: 109
+<Tue Sep 29 20:57:46 2020> DROPPED: 1 Tall shield | @Buya (330) | X: 41 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 20:59:58 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:00:02 2020
+<Tue Sep 29 21:00:13 2020> DROPPED: 1 Mystic buckler | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 21:00:26 2020> DROPPED: 1 Enchanted buckler | @Buya (330) | X: 41 Y: 107
+<Tue Sep 29 21:00:40 2020> DROPPED: 1 Amber buckler | @Buya (330) | X: 41 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:04:08 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:04:11 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:05:54 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:05:58 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:08:40 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:08:45 2020
+<Tue Sep 29 21:08:50 2020> DROPPED: 1 test1 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:09:02 2020> DROPPED: 1 test0 | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:09:27 2020> DROPPED: 1 Round buckler | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:09:27 2020> DROPPED: 1 Basic buckler | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:09:28 2020> DROPPED: 1 Light buckler | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:09:29 2020> DROPPED: 1 Heavy buckler | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:09:50 2020> DROPPED: 1 Tall shield | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:10:25 2020> DROPPED: 1 Magician's ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:10:25 2020> DROPPED: 1 Magic ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:10:26 2020> DROPPED: 1 Mage's ward | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:07 2020> DROPPED: 1 Essence charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:07 2020> DROPPED: 1 Nature charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:07 2020> DROPPED: 1 Soul charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:08 2020> DROPPED: 1 Spirit charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:08 2020> DROPPED: 1 Love charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:08 2020> DROPPED: 1 Life charm | @Buya (330) | X: 40 Y: 107
+<Tue Sep 29 21:12:09 2020> DROPPED: 1 Immortality charm | @Buya (330) | X: 40 Y: 107
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 29 21:12:19 2020

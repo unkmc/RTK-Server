@@ -1,0 +1,227 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 15:40:47 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 15:43:22 2020
+<Sun Sep 27 15:43:22 2020> LEVELED UP TO: 50 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 51 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 52 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 53 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 54 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 55 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 56 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 57 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 58 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 59 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 60 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 61 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 62 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 63 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 64 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 65 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 66 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 67 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 68 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 69 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 70 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 71 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 72 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 73 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 74 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 75 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 76 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 77 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 78 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 79 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 80 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 81 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 82 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 83 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 84 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 85 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 86 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 87 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 88 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 89 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 90 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 91 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 92 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 93 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 94 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 95 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 96 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 97 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 98 | @Spring Tavern (332)
+<Sun Sep 27 15:43:23 2020> LEVELED UP TO: 99 | @Spring Tavern (332)
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 15:44:16 2020
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 50 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 51 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 52 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 53 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 54 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 55 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 56 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 57 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 58 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 59 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 60 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 61 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 62 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 63 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 64 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 65 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 66 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 67 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 68 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 69 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 70 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 71 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 72 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 73 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 74 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 75 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 76 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 77 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 78 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 79 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 80 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 81 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 82 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 83 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 84 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 85 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 86 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 87 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 88 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 89 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 90 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 91 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 92 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 93 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 94 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 95 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 96 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 97 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 98 | @Spring Tavern (332)
+<Sun Sep 27 15:44:16 2020> LEVELED UP TO: 99 | @Spring Tavern (332)
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 15:56:45 2020
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 50 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 51 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 52 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 53 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 54 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 55 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 56 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 57 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 58 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 59 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 60 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 61 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 62 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 63 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 64 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 65 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 66 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 67 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 68 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 69 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 70 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 71 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 72 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 73 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 74 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 75 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 76 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 77 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 78 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 79 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 80 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 81 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 82 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 83 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 84 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 85 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 86 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 87 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 88 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 89 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 90 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 91 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 92 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 93 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 94 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 95 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 96 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 97 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 98 | @Spring Tavern (332)
+<Sun Sep 27 15:56:45 2020> LEVELED UP TO: 99 | @Spring Tavern (332)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 15:57:17 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 19:40:42 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 19:51:49 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 19:51:53 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 19:52:13 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 19:52:17 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Buya(330)
+ 234,352 gold.
+ 4,000,000,020 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 27 20:41:28 2020

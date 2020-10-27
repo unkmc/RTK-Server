@@ -1,0 +1,45 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 234,202 gold.
+ 4,000,001,100 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  1 21:44:08 2020
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 73 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 74 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 75 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 76 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 77 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 78 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 79 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 80 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 81 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 82 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 83 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 84 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 85 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 86 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 87 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 88 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 89 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 90 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 91 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 92 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 93 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 94 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 95 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 96 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 97 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 98 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> LEVELED UP TO: 99 | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:15 2020> Gained 30,000 from Black chick | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:45:58 2020> Gained 30,000 from Black chick | @Swarmed Steps 1 (214)
+<Thu Oct  1 21:52:54 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+<Thu Oct  1 21:52:58 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Mythic Nexus(41)
+ 234,152 gold.
+ 4,000,121,140 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Thu Oct  1 21:54:37 2020

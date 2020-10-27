@@ -1,0 +1,3 @@
+<Fri Oct  2 11:53:44 2020> [Black chick] | @Swarmed Steps 1 (M: 214 X:9 Y: 58) | Dropped items:  Chicken meat(1), Egg(1)
+<Fri Oct  2 11:53:44 2020> [Black chick] | @Swarmed Steps 1 (M: 214 X:9 Y: 58) | Dropped items:  Chicken meat(1), Egg(1)
+<Fri Oct  2 11:55:47 2020> [Black chick] | @Swarmed Steps 1 (M: 214 X:11 Y: 57) | Dropped items:  Chicken meat(1), Egg(1)

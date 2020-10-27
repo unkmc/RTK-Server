@@ -1,0 +1,29 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Spring Tavern(332)
+ 234,102 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Oct 10 14:14:02 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 234,050 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Oct 10 14:56:32 2020
+==== [Login] ==================================================================
+ Alias has logged in ~ @Pepper Tavern(361)
+ 234,050 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Oct 10 20:07:28 2020
+<Sat Oct 10 21:16:12 2020> DROPPED: 233218 Coins | @Wilderness (1002) | X: 207 Y: 139
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Pepper Tavern(361)
+ 232,802 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Sat Oct 10 22:12:46 2020

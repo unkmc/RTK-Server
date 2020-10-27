@@ -1,0 +1,14 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Buya(330)
+ 242,402 gold.
+ 1,219 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 15 20:42:50 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Leviathan Hermit(2539)
+ 242,352 gold.
+ 1,219 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Tue Sep 15 22:07:33 2020

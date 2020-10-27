@@ -1,0 +1,189 @@
+instance_boss = {
+on_spawn = function(mob)
+	local modifiers = instance_boss.lookupModifiers(mob)
+	local bosses = {
+		{
+			look = 296,
+			color = 12
+		}
+	}
+	local boss = math.random(1,#bosses)
+	mob.look = bosses[boss].look
+	mob.lookColor = bosses[boss].color
+	for i=1,#modifiers do
+		if modifiers[i].modifier == "increased_mob_health" then
+			mob.maxHealth = mob.maxHealth * (1 + (modifiers[i].value/100))
+			mob.health = mob.maxHealth
+		end	
+		if modifiers[i].modifier == "increased_mob_damage" then
+			mob.minDam = mob.minDam * (1 + (modifiers[i].value/100))
+			mob.maxDam = mob.maxDam * (1 + (modifiers[i].value/100))
+		end
+		if modifiers[i].modifier == "increased_player_exp" then
+			mob.experience = mob.experience * (1 + (modifiers[i].value/100))
+		end			
+	end
+	mob:updateState()
+end,
+
+on_healed = function(mob, healer)
+	mob_ai_basic.on_healed(mob, healer)
+end,
+
+on_attacked = function(mob, attacker)
+	mob_ai_basic.on_attacked(mob, attacker)
+end,
+	
+move = function(mob, target)
+	mob_ai_basic.move(mob, target)
+	instance_boss.moveOrAttackMods(mob)
+	if mob.look == 296 then instance_boss.boss296(mob) end
+end,
+
+attack = function(mob, target)
+	mob_ai_basic.attack(mob, target)
+	instance_boss.moveOrAttackMods(mob)	
+	if mob.look == 296 then instance_boss.boss296(mob) end
+end,
+
+after_death = function(mob, block)
+	local modifiers = instance_boss.lookupModifiers(mob)
+	local item = ""
+	
+	local base = {"chung_ryong_key", "hyun_moo_key", "ju_jak_key", "baekho_key", "key_to_heaven", "key_to_fire", "key_to_water", "key_to_earth", "key_to_pond", "key_to_mountain", "key_to_wind", "key_to_thunder", "ambrosia", "battle_helm", "magical_dust", "scribes_pen", "scribes_book", "pearl_charm", "fragile_rose", "purified_water", "dragons_liver", "lucky_coin", "lucky_silver_coin" }
+	if math.random(1,2) == 1 then
+		base = {"holy_ring","whisper_bracelet","titanium_glove","sen_glove","blood","charm","spike","surge"}
+	end
+	
+	item = base[math.random(1, #base)]
+	
+	
+	local rand = math.random(1,100)
+	if rand <= 20 then
+		mob:dropItem("map_fragment", 1)
+	end
+	mob:dropItem("amber", math.random(40,60))
+	mob:dropItem("dark_amber", math.random(20,30))
+	mob:dropItem("white_amber", math.random(1,8))
+	mob:dropItem(item, 1)
+	mob:dropItem(3, 10000)
+	
+
+	
+	local index = instance_boss.getMobInstanceIndex(mob)
+	if index ~= 0 then
+		instances[index].kills = instances[index].kills + 1 
+	end
+end,
+
+lookupModifiers = function(mob)
+	for i=1, #instances do
+		for k=1, #instances[i].maps do
+			if mob.m == instances[i].maps[k] then
+				return instances[i].modifiers
+			end
+		end
+	end
+end,
+
+moveOrAttackMods = function(mob)
+	mob.registry["ticker"] = mob.registry["ticker"] + 1
+	local modifiers = instance_boss.lookupModifiers(mob)
+	for i=1,#modifiers do
+		if modifiers[i].modifier == "healing" then
+			local rand = math.random(1,10)
+			if rand == 1 and mob.paralyzed == false then
+				mob:sendAnimation(5)
+				mob:addHealthExtend(mob.maxHealth * .0025,0,0,0,0,0)
+			end
+		end
+		if modifiers[i].modifier == "raging" then
+			if mob.health < mob.maxHealth * .25 then
+				mob:sendAnimation(248)
+				mob.minDam = math.floor((mob.minDam * (1 + (modifiers[i].value/100))) * 1.15)
+				mob.maxDam = math.floor((mob.maxDam * (1 + (modifiers[i].value/100))) * 1.15)
+				mob:updateState()
+			end
+		end
+	end
+	if (mob.registry["ticker"] % 3 == 0 and mob.paralyzed == true) then
+		local paraHeal = math.random(1,2)
+		if (paraHeal == 1) then
+			mob:sendAnimation(5)
+			mob:playSound(708)
+			mob.attacker = mob.ID
+			mob:addHealthExtend((mob.baseHealth * .025),0,0,0,0,0)
+		end
+	end	
+end,
+
+boss296 = function(mob) 
+	if mob.registry["ticker"] % 17 == 0 then
+		mob:talk(0,"Frost Wizard: I will freeze your bones!")
+		local players = mob:getObjectsInArea(BL_PC)
+		if #players > 0 then
+			for i=1, #players do
+				boss296freeze.cast(players[i])
+			end
+		end
+	end
+	if mob.registry["ticker"] % 25 == 0 then
+		local players = mob:getObjectsInArea(BL_PC)
+		if #players > 0 then
+			local rand = math.random(1, #players)
+			players[rand]:flushDuration()
+			players[rand]:sendMinitext("Frost Wizard casts Dispel on you")
+			scourge.cast(mob, players[rand])
+			players[rand]:sendMinitext("Frost Wizard casts Scourge on you")
+		end		
+	end
+end,
+
+getMobInstanceIndex = function(mob)
+	for i=1, #instances do
+		for k=1, #instances[i].maps do
+			if mob.m == instances[i].maps[k] then
+				return i
+			end
+		end
+	end
+	return 0
+end,
+
+}
+
+boss296freeze = {
+	cast = function(block)
+		block:sendAnimation(52)
+		block:setDuration("boss296freeze", 3000)
+		block.paralyzed = true
+	end,
+	while_cast = function(block)
+		block:sendAnimation(52)
+		local damage = block.maxHealth * .1
+		local instance_index = boss296freeze.getBlockInstanceIndex(block)
+		damage = damage * (1 + (boss296freeze.getInstanceDamage(instance_index) / 100))
+		block:removeHealth(damage)
+	end,
+	uncast = function(block)
+		block.paralyzed = false
+	end,
+	getBlockInstanceIndex = function(block)
+		for i=1, #instances do
+			for k=1, #instances[i].maps do
+				if block.m == instances[i].maps[k] then
+					return i
+				end
+			end
+		end
+		return 0
+	end,
+	getInstanceDamage = function(index)
+		for i=1, #instances[index].modifiers do
+			if (instances[index].modifiers[i].modifier == "increased_mob_damage") then
+				return instances[index].modifiers[i].value
+			end
+		end
+		return 0
+	end
+}

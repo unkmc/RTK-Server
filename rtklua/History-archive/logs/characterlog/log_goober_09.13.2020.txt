@@ -1,0 +1,70 @@
+==== [Login] ==================================================================
+ Goober has logged in ~ @Country Farm(4715)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:11:06 2020
+==== [Logout] ==================================================================
+ Goober has logged out ~ @Welcome(4711)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:12:05 2020
+==== [Login] ==================================================================
+ Goober has logged in ~ @Welcome(4711)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:18:04 2020
+==== [Logout] ==================================================================
+ Goober has logged out ~ @City Limits(4717)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:41:37 2020
+==== [Login] ==================================================================
+ Goober has logged in ~ @City Limits(4717)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:42:10 2020
+==== [Logout] ==================================================================
+ Goober has logged out ~ @Kugnae(0)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:47:20 2020
+==== [Login] ==================================================================
+ Goober has logged in ~ @Kugnae(0)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 20:47:24 2020
+==== [Logout] ==================================================================
+ Goober has logged out ~ @Ginger Tavern(38)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 21:07:30 2020
+==== [Login] ==================================================================
+ Goober has logged in ~ @Ginger Tavern(38)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 21:07:34 2020
+==== [Logout] ==================================================================
+ Goober has logged out ~ @Angel's Blessing(4718)
+ 0 gold.
+ 25 experience.
+ 0 karma.
+ IP: 192.168.56.1
+Date & Time : Sun Sep 13 22:06:41 2020

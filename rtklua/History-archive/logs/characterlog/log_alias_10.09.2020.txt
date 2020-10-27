@@ -1,0 +1,14 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yebaek Sanctum(366)
+ 234,102 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Fri Oct  9 20:14:33 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Spring Tavern(332)
+ 234,102 gold.
+ 1,152 experience.
+ 4.8000001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Fri Oct  9 20:35:43 2020

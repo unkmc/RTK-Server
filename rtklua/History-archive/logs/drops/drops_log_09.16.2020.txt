@@ -1,0 +1,2 @@
+<Wed Sep 16 19:49:10 2020> [Squirrel] | @Nagnang (M: 2500 X:114 Y: 140) | Dropped items:  Acorn(1), Acorn(2), Acorn(3), Acorn(50), Gold acorn(1)
+<Wed Sep 16 19:49:45 2020> [Strange thing] | @Nagnang (M: 2500 X:118 Y: 151) | Dropped items:  Crystal(1)

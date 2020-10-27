@@ -1,0 +1,14 @@
+==== [Login] ==================================================================
+ Alias has logged in ~ @Yunsil Tavern(362)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Fri Sep 11 20:22:45 2020
+==== [Logout] ==================================================================
+ Alias has logged out ~ @Spring Tavern(332)
+ 242,402 gold.
+ 9,214,560 experience.
+ 4.0500001907349 karma.
+ IP: 192.168.56.1
+Date & Time : Fri Sep 11 20:22:53 2020

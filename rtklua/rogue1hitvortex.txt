@@ -1,0 +1,15 @@
+    Conditions:  Doze/sc, sam dh.
+
+     Cave:  LS,DA,Kae.    no mana DA    (100% one hit damage)
+
+     Magus: 950/350  - -  1.3/350   (Green: 1.24. Blue: 1.3)
+     Note: I one-axe these now, and the axe spell does not fit into cycle very well at all.  Don't get your hopes up in that being a goal. :\
+
+     Hunter: 1.15/400 - -  1.58/400  (1.54 - 1.62 overall. Light green is slightly weaker than dark green, second rooms hunters are slightly buffer than dark green ones)
+
+     Hillmen: 1.28/450 - - 1.71/450 (note, they all look the same, but  they are definately not. Ilbenon: 1.62, Wibna: 1.65, Oneub: 1.71)
+
+     Anch:  1.4/450 - -  1.94/400   (purple: 1.95, orange: 1.91, yellow: 1.92) Note: This doens't include anchorites from anything other than the first room.
+
+     Bandit: 1.65/500 - -  2.15/500  (Other: 2.05  Brute: 2.15)
+     Note: You can one-hit frequently at 2mish.
