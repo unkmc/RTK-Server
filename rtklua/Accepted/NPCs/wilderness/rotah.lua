@@ -157,7 +157,7 @@ RotahNpc = {
 				"When forging the ring, the name cannot be offensive, or be intended to imitate or offend anyone else.",
 				"Your ring's name should be unique. It if is too similar to an existing ring or clan it may be disbanded, and you will not get a refund.",
 				"If you forge a ring with a name that is not appropriate the ring will be disbanded, and you will not get a refund.",
-				"((If you are unsure whether your ring's name is appropriate, please send us a ticket at https://www.classictk.com/helpdesk))"
+				--"((If you are unsure whether your ring's name is appropriate, please send us a ticket at https://www.retrotk.com/helpdesk))"
 			},
 			0
 		)

@@ -288,7 +288,7 @@ int clif_sendprofile(USER* sd)
 	int len = 0;
 
 	char url[255];
-	sprintf(url, "https://www.ClassicTK.com/users");
+	sprintf(url, "https://www.RetroTK.com/users");
 
 	WFIFOB(sd->fd, 0) = 0xAA;
 	WFIFOB(sd->fd, 3) = 0x62;
@@ -309,8 +309,8 @@ int clif_sendboard(USER* sd) {
 
 	//char url1[] = "http://board.nexustk.com";
 	//char url2[] = "http://www.nexustk.com";
-	char url1[] = "https://www.ClassicTK.com/boards"; // this first URL doesnt appear to do shit.. might be like a referral
-	char url2[] = "https://www.ClassicTK.com/boards"; // This is the actual URL that the browser goes to
+	char url1[] = "https://www.RetroTK.com/boards"; // this first URL doesnt appear to do shit.. might be like a referral
+	char url2[] = "https://www.RetroTK.com/boards"; // This is the actual URL that the browser goes to
 
 	char url3[] = "}domain=0&fkey=2&data=c3OPyAa3RaHPFuHmpuQmR]bl3bVK5KHmyAbkLmI92uHl34FKiAHPyUbmi]aYpYbl2OQkpKbsyUQmyNdl3nqPGJwkem1YqEVXhEFY3MIu"; // yea who fucking knows it was in the original packet though
 
@@ -11529,7 +11529,7 @@ printf("\n");*/
 	case 0x27: // PACKET SENT WHEN SOMEONE CLICKS QUEST tab or SHIFT Z key
 		clif_cancelafk(sd);
 
-		//clif_sendurl(sd,0,"https://www.ClassicTK.com/questguide/");
+		//clif_sendurl(sd,0,"https://www.RetroTK.com/questguide/");
 
 		/*if(SWAP16(RFIFOW(sd->fd,5))==0) {
 			clif_showguide(sd);

@@ -146,7 +146,7 @@ mentor = {
 			player:dialogSeq(
 				{
 					t,
-					"Mentoring someone in the lands of ClassicTK is a great way to show your knowledge of the game and support for the community.",
+					"Mentoring someone in the lands of RetroTK is a great way to show your knowledge of the game and support for the community.",
 					"You may begin mentoring someone as long as they have reached the 3rd insight and have not exceeded the 8th insight.",
 					"The proposed mentoree must also be free from another's mentorship.",
 					"After you have taught your mentoree much, you may culminate the mentorship when the mentoree has reached the 15th insight."

@@ -7,7 +7,7 @@ WoodlandGuardNpc = {
 		player:dialogSeq(
 			{
 				"The citizens of this community are expected to abide its laws. If you choose to persue an illegal alley, do not act mazed when you are jailed or banned.",
-				"Be conscientious. Do not harass or steal from other players. Report bugs, and do not exploit them. Do not share your password with anyone, including CTK staff."
+				"Be conscientious. Do not harass or steal from other players. Report bugs, and do not exploit them. Do not share your password with anyone, including RTK staff."
 			}, 1)
 
 		local menu = player:menuString(

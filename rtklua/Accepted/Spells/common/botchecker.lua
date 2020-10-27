@@ -14,7 +14,7 @@ botchecker = {
 		if player:getDuration("botchecker") == 180000 then
 			player:sendURL(
 				0,
-				"https://tk0.classictk.com/captcha/?name=" .. player.name .. "&key=" .. botcheck_hash[
+				"https://tk0.retrotk.com/captcha/?name=" .. player.name .. "&key=" .. botcheck_hash[
 					player.ID
 				]
 			)
@@ -26,7 +26,7 @@ botchecker = {
 		if player:getDuration("botchecker") == 120000 then
 			player:sendURL(
 				0,
-				"https://tk0.classictk.com/captcha/?name=" .. player.name .. "&key=" .. botcheck_hash[
+				"https://tk0.retrotk.com/captcha/?name=" .. player.name .. "&key=" .. botcheck_hash[
 					player.ID
 				]
 			)
@@ -43,7 +43,7 @@ botchecker = {
 			)
 			player:sendURL(
 				0,
-				"https://tk0.classictk.com/captcha/?name=" .. player.name .. "&key=" .. botcheck_hash[
+				"https://tk0.retrotk.com/captcha/?name=" .. player.name .. "&key=" .. botcheck_hash[
 					player.ID
 				]
 			)
@@ -61,7 +61,7 @@ botchecker = {
 				player.name .. " successfully answered the bot check and has been unlocked."
 			)
 		else
-			player:sendURL(0, "https://tk0.classictk.com/captcha/fail.php")
+			player:sendURL(0, "https://tk0.retrotk.com/captcha/fail.php")
 			player:warp(666, 3, 4)
 			player:unlock()
 			characterLog.bottingLog(

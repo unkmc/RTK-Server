@@ -469,7 +469,7 @@ int intif_parse_deletepostresponse(int fd) {
 		nmail_sendmessage(sd, "You can only delete your own messages.", 7, 0);
 		break;
 	case 0x02: //SQL Error
-		nmail_sendmessage(sd, "DB Error. Please ticket ClassicTK staff.", 7, 0);
+		nmail_sendmessage(sd, "DB Error. Please ticket RetroTK staff.", 7, 0);
 		break;
 	default:
 		break;
@@ -673,7 +673,7 @@ int intif_parse_boardpostresponse(int fd) {
 		nmail_sendmessage(sd, "Your message has been posted.", 6, 1);
 		break;
 	case 1: //Sql Error
-		nmail_sendmessage(sd, "(SQL Error) Please ticket ClassicTK staff.", 6, 0);
+		nmail_sendmessage(sd, "(SQL Error) Please ticket RetroTK staff.", 6, 0);
 		break;
 	}
 
@@ -695,7 +695,7 @@ int intif_parse_nmailwriteresponse(int fd) {
 		nmail_sendmessage(sd, "Your message has been sent.", 6, 1);
 		break;
 	case 1: //Sql Error
-		nmail_sendmessage(sd, "(SQL Error) Please ticket ClassicTK staff.", 6, 0);
+		nmail_sendmessage(sd, "(SQL Error) Please ticket RetroTK staff.", 6, 0);
 		break;
 	case 2: //Invalid user
 		nmail_sendmessage(sd, "User does not exist.", 6, 0);

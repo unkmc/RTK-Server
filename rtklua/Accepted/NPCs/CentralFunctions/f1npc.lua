@@ -383,7 +383,7 @@ F1Npc = {
 			player:faerieLight()
 		elseif choice == "My character webpage" then
 			local choice = player:menuString(
-				"What do you want to do with your CTK user webpage?",
+				"What do you want to do with your RTK user webpage?",
 				{"Change", "Remove", "Help"}
 			)
 
@@ -505,7 +505,7 @@ F1Npc = {
 				player:dialogSeq(
 					{
 						t,
-						"This feature will allow you to set up your own specific options for a CTK user page (https://users.ClassicTK.com)",
+						"This feature will allow you to set up your own specific options for a RTK user page (https://users.RetroTK.com)",
 						"You will be able to select what information you want to show on the site, and some options on your character image as well.",
 						"These webpages will be updated dynamically with information pulled real time from the game.",
 						"Remember to wear something nice, as that will be shown on the website."

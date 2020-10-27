@@ -83,7 +83,7 @@ openingSceneUsedMaps = {}
 openingSceneQueue = {}
 
 advice = {
-	"First time in ClassicTK? Visit www.classicTK.com or check out the boards",
+	"First time in RetroTK? Visit www.retroTK.com or check out the boards",
 	"Your legend is the history of your character from experiences to accomplishments and more.",
 	"Press 'F1' to gather information about character.",
 	"Visit a trainer today to learn new spells. At level 5, you may choose your destiny.",

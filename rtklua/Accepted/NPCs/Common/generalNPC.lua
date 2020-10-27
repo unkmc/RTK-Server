@@ -31,7 +31,7 @@ generalNPC = {
 					"As you successfully use a skill, your ability in that skill will gradually increase. You will notice improvements occur faster when your skill level is still low.",
 					"As you become better, it takes longer to improve your ability. Becoming a 'Master', or higher, take sa very long time.",
 					"As your skill improves, you will fail less often and have positive results more often. Most skills require some tools or materials.",
-					"Throughout CTK, you will find merchants who know different skills. Each merchant will explain to you the details of how his or her specific skill is performed."
+					"Throughout RTK, you will find merchants who know different skills. Each merchant will explain to you the details of how his or her specific skill is performed."
 				},
 				1
 			)

@@ -4,7 +4,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/drops/drops_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/drops/drops_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 
 		local file = io.open(dir, "a+")
 
@@ -31,7 +31,7 @@ characterLog = {
 
 		local items = mob:getObjectsInCell(mob.m, mob.x, mob.y, BL_ITEM)
 		local names = {}
-		local dir, text = "../ctklua/History/logs/boss_kills/boss_kill_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/boss_kills/boss_kill_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 
 		local file = io.open(dir, "a+")
 
@@ -70,8 +70,8 @@ characterLog = {
 
 		local srcPlayer = Player(srcName)
 
-		local file1 = "../ctklua/History/logs/chatlogs/whispers/" .. dstName .. "<=>" .. srcName .. "_" .. os.date("%m.%d.%Y") .. ".txt"
-		local file2 = "../ctklua/History/logs/chatlogs/whispers/" .. srcName .. "<=>" .. dstName .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local file1 = "../rtklua/History/logs/chatlogs/whispers/" .. dstName .. "<=>" .. srcName .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local file2 = "../rtklua/History/logs/chatlogs/whispers/" .. srcName .. "<=>" .. dstName .. "_" .. os.date("%m.%d.%Y") .. ".txt"
 
 		if io.open(file1, "r") ~= nil then
 			-- checks existence of each file. if they both do not exist, then makes new file using file1 format
@@ -96,7 +96,7 @@ characterLog = {
 		srcName = string.lower(srcName)
 		local player = Player(srcName)
 
-		local dir, text = "../ctklua/History/logs/chatlogs/clan/" .. getClanName(player.clan) .. "_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/clan/" .. getClanName(player.clan) .. "_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -113,7 +113,7 @@ characterLog = {
 		srcName = string.lower(srcName)
 		local player = Player(srcName)
 
-		local dir, text = "../ctklua/History/logs/chatlogs/groups/groupChatLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/groups/groupChatLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -130,7 +130,7 @@ characterLog = {
 		srcName = string.lower(srcName)
 		local player = Player(srcName)
 
-		local dir, text = "../ctklua/History/logs/chatlogs/novice/noviceChatLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/novice/noviceChatLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -147,7 +147,7 @@ characterLog = {
 		srcName = string.lower(srcName)
 		local player = Player(srcName)
 
-		local dir, text = "../ctklua/History/logs/chatlogs/subpath/" .. player.className .. "_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/subpath/" .. player.className .. "_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -161,7 +161,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/exchange/exchange_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/exchange/exchange_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		local items1 = {}
@@ -241,7 +241,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/exchange/mass_exchange_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/exchange/mass_exchange_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "==== [Mass Exchange between " .. player1.name .. " and " .. player2.name .. " | " .. os.date() .. " | @" .. player1.mapTitle .. " (" .. player1.m .. ")] ==================================================================\n"
@@ -300,7 +300,7 @@ characterLog = {
 			return
 		end
 
-		local dir = "../ctklua/History/logs/chatlogs/events/carnageTeamChatLog_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir = "../rtklua/History/logs/chatlogs/events/carnageTeamChatLog_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file = io.open(dir, "a+")
 
 		text = "<" .. os.date() .. "> " .. text .. "\n"
@@ -316,8 +316,8 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir1 = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
-		local dir2 = "../ctklua/History/logs/botting/botting_log_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir1 = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir2 = "../rtklua/History/logs/botting/botting_log_" .. os.date("%m.%d.%Y") .. ".txt"
 
 		local file1 = io.open(dir1, "a+")
 		local file2 = io.open(dir2, "a+")
@@ -338,7 +338,7 @@ characterLog = {
 
 		local amount = getKanDonationPoints()
 
-		local dir, text = "../ctklua/History/logs/wisdom_star/wisdomStarLog_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/wisdom_star/wisdomStarLog_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date("%m.%d.%Y") .. "> Total Kan spent on Wisdom Star: " .. amount .. "\n"
@@ -352,7 +352,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/wisdom_star/wisdomStarLog_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/wisdom_star/wisdomStarLog_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. ") spent " .. amount .. " Kan on Wisdom Star | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -366,7 +366,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/chatlogs/sage/sageLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/sage/sageLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		if player.gmLevel ~= 0 then
@@ -384,7 +384,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/chatlogs/general/chatLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/general/chatLog_full_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -398,7 +398,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/chatlogs/gm/chatLog_" .. player.name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/gm/chatLog_" .. player.name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -412,7 +412,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/chatlogs/characters/chatLog_" .. player.name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/chatlogs/characters/chatLog_" .. player.name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. player.name .. "(" .. player.ID .. "): '" .. speech .. "' | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -428,7 +428,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "==== [Login] ==================================================================\n"
@@ -450,7 +450,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "==== [Logout] ==================================================================\n"
@@ -472,7 +472,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "==== [Stat | Vita/Mana Gain] ==================================================================\n"
@@ -489,7 +489,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> Gained " .. Tools.formatNumber(amount) .. " " .. stat .. " while training | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -505,7 +505,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> Gained " .. Tools.formatNumber(xp) .. " from " .. mob.name .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -521,7 +521,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> Gained " .. Tools.formatNumber(amount) .. " experience | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -536,10 +536,10 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir1, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir1, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file1 = io.open(dir1, "a+")
 
-		local dir2 = "../ctklua/History/logs/nameChanges/nameChangeLog_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir2 = "../rtklua/History/logs/nameChanges/nameChangeLog_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file2 = io.open(dir2, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. oldName .. " has changed their name to " .. player.name .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -558,7 +558,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. string .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -574,7 +574,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> " .. string .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -590,7 +590,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/spell_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/spell_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "-[Damage Out]-\n"
@@ -609,7 +609,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/swing_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/swing_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "-[Damage Out]-\n"
@@ -629,7 +629,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> ADDED GOLD: " .. Tools.formatNumber(money) .. "  TOTAL GOLD: " .. player.money .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -645,7 +645,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> REMOVED GOLD: " .. Tools.formatNumber(money) .. "  TOTAL GOLD: " .. player.money .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -661,7 +661,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> LEVELED UP TO: " .. player.level .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -679,7 +679,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		if player.pickUpType == 0 then
@@ -703,7 +703,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> DROPPED: " .. item.amount .. " " .. item.name .. " | @" .. player.mapTitle .. " (" .. player.m .. ") | X: " .. player.x .. " Y: " .. player.y .. "\n"
@@ -721,7 +721,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file = io.open(dir, "a+")
 
 		local text = ""
@@ -748,7 +748,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file = io.open(dir, "a+")
 
 		local text = ""
@@ -775,7 +775,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file = io.open(dir, "a+")
 
 		local text = ""
@@ -802,7 +802,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file = io.open(dir, "a+")
 
 		local text = ""
@@ -831,12 +831,12 @@ characterLog = {
 			table.insert(items, player:getBODItem(i))
 		end
 
-		local dir, text = "../ctklua/History/logs/death/bod_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/death/bod_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		local name = string.lower(player.name)
 
-		local dir2 = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
+		local dir2 = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt"
 		local file2 = io.open(dir2, "a+")
 
 		text = "\n==== [Break on Death] ==================================================================\n"
@@ -877,7 +877,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/death/deathpile_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/death/deathpile_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "\n==== [Death Pile] ==================================================================\n"
@@ -920,7 +920,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/kan/kan_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/kan/kan_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		local cost = item.price * amount
@@ -945,7 +945,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/kan/kan_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/kan/kan_log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = "==== [Kan Certificate Used] ==================================================================\n"
@@ -967,7 +967,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> SOLD: " .. item.name .. " Amount: " .. amount .. " for " .. Tools.formatNumber(cost) .. " gold. | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -983,7 +983,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> BOUGHT: " .. item.name .. " Amount: " .. amount .. " for " .. Tools.formatNumber(cost) .. " gold. | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -999,7 +999,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> "
@@ -1028,7 +1028,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> "
@@ -1057,7 +1057,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> WITHDREW GOLD: " .. Tools.formatNumber(amount) .. "  TOTAL DEPOSITED GOLD: " .. Tools.formatNumber(player.bankMoney) .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -1073,7 +1073,7 @@ characterLog = {
 
 		local name = string.lower(player.name)
 
-		local dir, text = "../ctklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/characterlog/log_" .. name .. "_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = text .. "<" .. os.date() .. "> DEPOSITED GOLD: " .. Tools.formatNumber(amount) .. "  TOTAL DEPOSITED GOLD: " .. Tools.formatNumber(player.bankMoney) .. " | @" .. player.mapTitle .. " (" .. player.m .. ")\n"
@@ -1087,7 +1087,7 @@ characterLog = {
 			return
 		end
 
-		local dir, text = "../ctklua/History/logs/input/input_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
+		local dir, text = "../rtklua/History/logs/input/input_log_" .. os.date("%m.%d.%Y") .. ".txt", ""
 		local file = io.open(dir, "a+")
 
 		text = player.name .. " string: " .. string .. "\n"

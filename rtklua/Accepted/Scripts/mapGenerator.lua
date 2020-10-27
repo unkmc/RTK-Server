@@ -13,7 +13,7 @@ mapGenerator = {
 				map = maps[math.random(1, #maps)]
 				setMap(
 					tempmap,
-					"../ctkmaps/Accepted/test/" .. map .. ".map",
+					"../rtkmaps/Accepted/test/" .. map .. ".map",
 					"Merry Forest",
 					0,
 					0,

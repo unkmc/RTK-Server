@@ -2157,8 +2157,8 @@ onSay = function(player)
 			local mapNum = 50000 + player.ID
 
 			if (string.byte(map, string.len(map) - 3) == 46) then
-				os.execute("cd ../ctkmaps;svn up;cd ../ctk")
-				setMap(mapNum, "../ctkmaps/Accepted/" .. map)
+				os.execute("cd ../rtkmaps;svn up;cd ../rtk")
+				setMap(mapNum, "../rtkmaps/Accepted/" .. map)
 				player:warp(mapNum, 5, 5)
 				player.spell = 1
 			else
@@ -2170,7 +2170,7 @@ onSay = function(player)
 		-- Mapper End
 
 		if (lspeech == "reload") or (lspeech == "/reload") then
-			os.execute("cd ../ctkmaps;svn up;cd ../ctklua; svn up; cd ../ctk; svn up")
+			os.execute("cd ../rtkmaps;svn up;cd ../rtklua; svn up; cd ../rtk; svn up")
 			player.speech = "/reload"
 			player:gmMsg(
 				"<Console>: " .. player.name .. " has svn up and reloaded the server.",
@@ -2178,7 +2178,7 @@ onSay = function(player)
 			)
 			os.execute("echo " .. player.name .. " has SVN UP and RELOADED server.")
 		elseif (lspeech == "svn up") then
-			os.execute("cd ../ctkmaps;svn up;cd ../ctklua; svn up; cd ../ctk; svn up")
+			os.execute("cd ../rtkmaps;svn up;cd ../rtklua; svn up; cd ../rtk; svn up")
 			player:gmMsg(
 				"<Console>: " .. player.name .. " has svn up the server.",
 				50

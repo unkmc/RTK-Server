@@ -227,9 +227,9 @@ static void display_title(void)
 {
 	printf("\033[2J"); // clear screen and go up/left (0, 0 position in text)
 
-	printf("ClassicTK - Revision %s\n", get_svn_revision());
-#if CLASSICTK_RELEASE_FLAG
-	//printf("**ClassicTK Develop version!\n");
+	printf("RetroTK - Revision %s\n", get_svn_revision());
+#if RETROTK_RELEASE_FLAG
+	//printf("**RetroTK Develop version!\n");
 #endif
 }
 /*void *timer_thread(void *nothing) {

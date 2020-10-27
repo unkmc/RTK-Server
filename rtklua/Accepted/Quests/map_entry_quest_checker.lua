@@ -7,7 +7,7 @@ map_entry_quest_checker = async(function(player)
 		player:dialogSeq(
 			{
 				t,
-				"Hello and welcome to ClassicTK. Please journey south to begin your tutorial quest and get a weapon, armor, and your first spell."
+				"Hello and welcome to RetroTK. Please journey south to begin your tutorial quest and get a weapon, armor, and your first spell."
 			},
 			1
 		)
@@ -17,7 +17,7 @@ map_entry_quest_checker = async(function(player)
 		player:dialogSeq(
 			{
 				t,
-				"You walk along the path and come across a merchant in a field.\n\nTo talk to merchants in ClassicTK you must click on them with your mouse pointer.\n\nTalk to this merchant to continue your learning."
+				"You walk along the path and come across a merchant in a field.\n\nTo talk to merchants in RetroTK you must click on them with your mouse pointer.\n\nTalk to this merchant to continue your learning."
 			},
 			1
 		)
@@ -28,7 +28,7 @@ map_entry_quest_checker = async(function(player)
 				{
 					t,
 					"Congratulations!\n\nYou have learned to find your way around. If you look at the bottom right of your screen, the numbers now read 003 002",
-					"Using this system and the Mini Map (Press 'm'), you can find your way around the cities and towns of ClassicTK. You can also find the important places by pressing the 'F1' key"
+					"Using this system and the Mini Map (Press 'm'), you can find your way around the cities and towns of RetroTK. You can also find the important places by pressing the 'F1' key"
 				},
 				1
 			)

@@ -1,6 +1,6 @@
 welcomeNmail = {
 	send = function(player)
-		mail = "===[ Welcome to ClassicTK ]===\n"
+		mail = "===[ Welcome to RetroTK ]===\n"
 		mail = mail .. "==================================\n"
 		mail = mail .. "A wonderous world of adventure is ahead of you. \n"
 		mail = mail .. "To Walk - Use the Arrow Keys, left click, or hold right click. \n"
@@ -56,18 +56,18 @@ welcomeNmail = {
 		mail = mail .. "Scroll Lock - Take a Screenshot to Remember! \n"
 		mail = mail .. "Shift+/ or ? - To See Most of this List in Game! \n"
 		mail = mail .. "==================================\n"
-		mail = mail .. "Thanks for reading and we hope you enjoy your time spent with us on ClassicTK!\n"
+		mail = mail .. "Thanks for reading and we hope you enjoy your time spent with us on RetroTK!\n"
 
-		mail2 = "===[ Welcome to ClassicTK ]===\n"
+		mail2 = "===[ Welcome to RetroTK ]===\n"
 		mail2 = mail2 .. "==================================\n"
 		mail2 = mail2 .. "Hot Keys: \n"
 		mail2 = mail2 .. "\n"
 		mail2 = mail2 .. "F1 Menu - Character Status Screen, Character Info & Stats, Toggles, and more as added. \n"
-		mail2 = mail2 .. "F2 - Turn “Subpath Chat” On/Off! \n"
+		mail2 = mail2 .. "F2 - Turn ï¿½Subpath Chatï¿½ On/Off! \n"
 		mail2 = mail2 .. "F3 - Friends List. Save Player Names Here. \n"
 		mail2 = mail2 .. "F4 - Realm Center. Locks/Unlocks Camera. \n"
-		mail2 = mail2 .. "F5 - Turn “Whispers” (Private Messages) On / Off! \n"
-		mail2 = mail2 .. "F6 - Turn “Shouts” (Kingdom Messages) On/Off! \n"
+		mail2 = mail2 .. "F5 - Turn ï¿½Whispersï¿½ (Private Messages) On / Off! \n"
+		mail2 = mail2 .. "F6 - Turn ï¿½Shoutsï¿½ (Kingdom Messages) On/Off! \n"
 		mail2 = mail2 .. "F7, F8 - Turn Volume Up/Down \n"
 		mail2 = mail2 .. "F9 - Ignore List. If someone is bothering you add them here. \n"
 		mail2 = mail2 .. "F10 - Option Tab to Turn On/Off many Features\n"
@@ -97,9 +97,9 @@ welcomeNmail = {
 		mail2 = mail2 .. "D - Drop all of an Item by letter. View Inventory with ? Key! \n"
 		mail2 = mail2 .. "\n"
 		mail2 = mail2 .. "==================================\n"
-		mail2 = mail2 .. "Thanks for reading and we hope you enjoy your time spent with us on ClassicTK!\n"
+		mail2 = mail2 .. "Thanks for reading and we hope you enjoy your time spent with us on RetroTK!\n"
 
 		player:sendMail(player.name, "Controls and Hotkeys", mail2 .. "")
-		player:sendMail(player.name, "Welcome to ClassicTK!", mail .. "")
+		player:sendMail(player.name, "Welcome to RetroTK!", mail .. "")
 	end
 }

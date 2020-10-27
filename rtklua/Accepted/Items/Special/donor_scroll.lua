@@ -45,7 +45,7 @@ donor_scroll = {
 			player:playSound(123)
 			broadcast(
 				-1,
-				"[CTK Team] A huge thank you to " .. player.name .. " for their donation!"
+				"[RTK Team] A huge thank you to " .. player.name .. " for their donation!"
 			)
 			player:addLegend(
 				"Supporter of the Kingdoms (" .. curT() .. ")",
@@ -63,7 +63,7 @@ donor_scroll = {
 			player:playSound(123)
 			broadcast(
 				-1,
-				"[CTK Team] A huge thank you to " .. player.name .. " for their great donation!"
+				"[RTK Team] A huge thank you to " .. player.name .. " for their great donation!"
 			)
 			player:addLegend(
 				"Patron of the Kingdoms (" .. curT() .. ")",
@@ -81,7 +81,7 @@ donor_scroll = {
 			player:playSound(123)
 			broadcast(
 				-1,
-				"[CTK Team] A huge thank you to " .. player.name .. " for their amazing donation!"
+				"[RTK Team] A huge thank you to " .. player.name .. " for their amazing donation!"
 			)
 			player:addLegend(
 				"Benefactor of the Kingdoms (" .. curT() .. ")",
@@ -99,7 +99,7 @@ donor_scroll = {
 			player:playSound(123)
 			broadcast(
 				-1,
-				"[CTK Team] A huge thank you to " .. player.name .. " for their fantastic donation!"
+				"[RTK Team] A huge thank you to " .. player.name .. " for their fantastic donation!"
 			)
 			player:addLegend(
 				"Curator of the Kingdoms (" .. curT() .. ")",
@@ -117,7 +117,7 @@ donor_scroll = {
 			player:playSound(123)
 			broadcast(
 				-1,
-				"[CTK Team] A huge thank you to " .. player.name .. " for their astounding donation!"
+				"[RTK Team] A huge thank you to " .. player.name .. " for their astounding donation!"
 			)
 			player:addLegend(
 				"Saviour of the Kingdoms (" .. curT() .. ")",

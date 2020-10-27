@@ -1,4 +1,4 @@
-cd /home/CTK/ctk
+cd /home/RTK/rtk
 nohup login-server-monitor > logs/login-server-monitor_$(date +%Y-%m-%d).log 2>&1 &
 echo $! > logs/login-server-monitor_pid.txt
 nohup char-server-monitor > logs/char-server-monitor_$(date +%Y-%m-%d).log 2>&1 &

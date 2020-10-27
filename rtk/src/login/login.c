@@ -210,7 +210,7 @@ int config_read(const char* cfg_file) {
 }
 
 void do_term(void) {
-	printf("ClassicTK Login Server Shutdown.\n");
+	printf("RetroTK Login Server Shutdown.\n");
 	add_log("Shutdown.\n");
 }
 
@@ -266,7 +266,7 @@ int do_init(int argc, char** argv) {
 	set_termfunc(do_term);
 	//zlib_init();
 	add_log("");
-	add_log("ClassicTK Login Server Started.\n");
+	add_log("RetroTK Login Server Started.\n");
 
 	set_defaultaccept(clif_accept);
 	set_defaultparse(clif_parse);
@@ -275,7 +275,7 @@ int do_init(int argc, char** argv) {
 	//Lockout DB
 	bf_lockout = uidb_alloc(DB_OPT_BASE);
 
-	printf("ClassicTK Login Server is \033[1;32mready\033[0m! Listening at %d.\n", login_port);
+	printf("RetroTK Login Server is \033[1;32mready\033[0m! Listening at %d.\n", login_port);
 	add_log("Server Ready! Listening at %d.\n", login_port);
 	return 0;
 }

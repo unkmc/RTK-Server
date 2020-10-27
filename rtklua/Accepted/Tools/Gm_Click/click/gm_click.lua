@@ -427,7 +427,7 @@ gm_click = {
 		if reg > 0 then
 			player.registry["bugs_found"] = player.registry["bugs_found"] + 1
 			player:addLegend(
-				"Recognized for finding " .. player.registry["bugs_found"] .. " bugs in ClassicTK",
+				"Recognized for finding " .. player.registry["bugs_found"] .. " bugs in RetroTK",
 				"bugfinder",
 				213,
 				244
@@ -435,7 +435,7 @@ gm_click = {
 		else
 			player.registry["bugs_found"] = 1
 			player:addLegend(
-				"Recognized for finding 1 bug in ClassicTK",
+				"Recognized for finding 1 bug in RetroTK",
 				"bugfinder",
 				213,
 				244
@@ -460,7 +460,7 @@ gm_click = {
 		if reg > 0 then
 			player.registry["gm_assist"] = player.registry["gm_assist"] + 1
 			player:addLegend(
-				"Assisted the ClassicTK GMs " .. player.registry["gm_assist"] .. " times",
+				"Assisted the RetroTK GMs " .. player.registry["gm_assist"] .. " times",
 				"gmassist",
 				145,
 				226
@@ -468,7 +468,7 @@ gm_click = {
 		else
 			player.registry["gm_assist"] = 1
 			player:addLegend(
-				"Assisted the ClassicTK GMs 1 time",
+				"Assisted the RetroTK GMs 1 time",
 				"gmassist",
 				145,
 				226

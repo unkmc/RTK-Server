@@ -55,10 +55,10 @@ SageNpc = {
 		--[[player:dialogSeq({t,"Read the following rules very carefully, for if you should break one then you will lose this spell for a long time!",
 		"Share wisdom is for you to share your wisdom with the community.",
 		"Use of the spell in any way to offend anybody in the game can result in its loss.",
-		"Sharing of wisdom not needed to the world of ClassicTK can result in loss of this spell.",
+		"Sharing of wisdom not needed to the world of RetroTK can result in loss of this spell.",
 		"Repeated spamming of your wisdom to the world can result in the loss of this spell.",
 		"Jailing for ANY crime will result in loss of this spell.",
-		"Breaking any other law in ClassicTK using this spell will result in loss of the spell."},1)]]
+		"Breaking any other law in RetroTK using this spell will result in loss of the spell."},1)]]
 		--
 
 		player:dialogSeq(
@@ -70,7 +70,7 @@ SageNpc = {
 				"Repeated spamming of your wisdom to the world can result in the loss of this spell.",
 				"Keep personal grievances out of sage.",
 				"Jailing for ANY crime will result in loss of this spell.",
-				"Breaking any other law in ClassicTK using this spell will result in loss of the spell."
+				"Breaking any other law in RetroTK using this spell will result in loss of the spell."
 			},
 			1
 		)

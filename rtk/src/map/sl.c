@@ -3153,7 +3153,7 @@ void sl_init() {
 	lua_register(sl_gstate, "sendMeta", sendMeta);
 	lua_atpanic(sl_gstate, func_panic);
 	// make sure to load the sys.lua file before anything else!
-	if (luaL_dofile(sl_gstate, "../ctklua/Developers/sys.lua")) {
+	if (luaL_dofile(sl_gstate, "../rtklua/Developers/sys.lua")) {
 		sl_err_print(sl_gstate);
 		return;
 	}
@@ -3203,8 +3203,8 @@ int sl_loaddir(char* dirpath, lua_State* state) {
 int sl_reload(lua_State* state) {
 	int errors = 0;
 
-	errors += sl_loaddir("../ctklua/Accepted/", state);
-	errors += sl_loaddir("../ctklua/Developers/", state);
+	errors += sl_loaddir("../rtklua/Accepted/", state);
+	errors += sl_loaddir("../rtklua/Developers/", state);
 
 	return errors;
 }

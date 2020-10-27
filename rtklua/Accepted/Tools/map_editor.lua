@@ -30,7 +30,7 @@ map_editor = {
 				{"Yes", "No"}
 			)
 			if confirm == "Yes" then
-				saveMap(player.m, "../ctkmaps/Accepted/" .. player.mapfile)
+				saveMap(player.m, "../rtkmaps/Accepted/" .. player.mapfile)
 				player:sendMinitext("Map saved!")
 				gm = player:getUsers()
 				for i = 1, #gm do
@@ -478,7 +478,7 @@ toggle_highlight_pass = {
 
 editor_save = {
 	cast = function(player)
-		saveMap(player.m, "../ctkmaps/Accepted/" .. player.mapFile)
+		saveMap(player.m, "../rtkmaps/Accepted/" .. player.mapFile)
 
 		player:sendMinitext("Map saved!")
 

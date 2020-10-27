@@ -78,7 +78,7 @@ SalonNpc = {
 	end]]
 		--
 
-		-- below is revised for CTK eff 05-21-19
+		-- below is revised for RTK eff 05-21-19
 
 		opts = {
 			"A hair cut, please.",

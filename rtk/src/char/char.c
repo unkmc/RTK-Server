@@ -265,7 +265,7 @@ void do_term(void) {
 	logindata_term();
 	char_db_term();
 	session_eof(login_fd);
-	printf("ClassicTK Char Server Shutdown.\n");
+	printf("RetroTK Char Server Shutdown.\n");
 	add_log("Shutdown.\n");
 }
 
@@ -307,7 +307,7 @@ int do_init(int argc, char** argv) {
 	set_termfunc(do_term);
 
 	add_log("");
-	add_log("ClassicTK Char Server Started.\n");
+	add_log("RetroTK Char Server Started.\n");
 
 	char_db_init();
 	logindata_init();
@@ -320,7 +320,7 @@ int do_init(int argc, char** argv) {
 	//timer_insert(5000,5000,keep_login_alive,0,0);
 	CALLOC(char_dat, struct mmo_charstatus, 1);
 
-	printf("ClassicTK Char Server is \033[1;32mready\033[0m! Listening at %d.\n", char_port);
+	printf("RetroTK Char Server is \033[1;32mready\033[0m! Listening at %d.\n", char_port);
 	add_log("Server Ready! Listening at %d.\n", char_port);
 
 	zlib_init();

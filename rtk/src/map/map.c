@@ -568,11 +568,11 @@ int map_delblock(struct block_list* bl) {
 	int pos;
 	nullpo_ret(0, bl);
 
-	// ?‚Éblocklist‚©‚ç?‚¯‚Ä‚¢‚é
+	// ?ï¿½ï¿½blocklistï¿½ï¿½ï¿½ï¿½?ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½
 
 	if (bl->prev == NULL) {
 		if (bl->next != NULL) {
-			// prev‚ªNULL‚Ånext‚ªNULL‚Å‚È‚¢‚Ì‚Í—L‚Á‚Ä‚Í‚È‚ç‚È‚¢
+			// prevï¿½ï¿½NULLï¿½ï¿½nextï¿½ï¿½NULLï¿½Å‚È‚ï¿½ï¿½Ì‚Í—Lï¿½ï¿½ï¿½Ä‚Í‚È‚ï¿½È‚ï¿½
 			ShowError("map_delblock error : bl->next!=NULL\n");
 		}
 		return 0;
@@ -583,7 +583,7 @@ int map_delblock(struct block_list* bl) {
 	if (bl->next)
 		bl->next->prev = bl->prev;
 	if (bl->prev == &bl_head) {
-		// ƒŠƒXƒg‚Ì“ª‚È‚Ì‚ÅAmap[]‚Ìblock_list‚ğXV‚·‚é
+		// ï¿½ï¿½ï¿½Xï¿½gï¿½Ì“ï¿½ï¿½È‚Ì‚ÅAmap[]ï¿½ï¿½block_listï¿½ï¿½ï¿½Xï¿½Vï¿½ï¿½ï¿½ï¿½
 		if (bl->type == BL_MOB) {
 			map[bl->m].block_mob[pos] = bl->next;
 		}
@@ -728,7 +728,7 @@ int map_foreachinblockva(int (*func)(struct block_list*, va_list), int m, int x0
 		printf("map_foreachinarea: block count too many!\n");
 
 	for (i = 0; i < blockcount; i++)
-		if (bl_list[i]->prev)	// —L?‚©‚Ç‚¤‚©ƒ`ƒFƒbƒN
+		if (bl_list[i]->prev)	// ï¿½L?ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½`ï¿½Fï¿½bï¿½N
 			returnCount += func(bl_list[i], ap);
 
 	/*for (i = blockcount; i >= 0; i--)
@@ -790,10 +790,10 @@ int map_foreachincell(int (*func)(struct block_list*, va_list), int m, int x, in
 		printf("Map_foreachincell: block count too many!\n");
 	//ShowWarning("map_foreachincell: block count too many!\n");
 
-//map_freeblock_lock();	// ƒƒ‚ƒŠ‚©‚ç‚Ì‰ğ•ú‚ğ‹Ö~‚·‚é - Prohibit release from memory
+//map_freeblock_lock();	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½Ö~ï¿½ï¿½ï¿½ï¿½ - Prohibit release from memory
 
 	for (int i = 0; i < blockcount; i++)
-		if (bl_list[i]->prev)	// —L?‚©‚Ç‚¤‚©ƒ`ƒFƒbƒN - Check if there is
+		if (bl_list[i]->prev)	// ï¿½L?ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½`ï¿½Fï¿½bï¿½N - Check if there is
 		{
 			va_list ap;
 			va_start(ap, type);
@@ -801,7 +801,7 @@ int map_foreachincell(int (*func)(struct block_list*, va_list), int m, int x, in
 			va_end(ap);
 		}
 
-	//map_freeblock_unlock();	// ‰ğ•ú‚ğ‹–‰Â‚·‚é - Allow release
+	//map_freeblock_unlock();	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ - Allow release
 
 	//bl_list_count = blockcount;
 	return returnCount;
@@ -838,10 +838,10 @@ int map_foreachincellwithtraps(int (*func)(struct block_list*, va_list), int m, 
 		printf("Map_foreachincell: block count too many!\n");
 	//ShowWarning("map_foreachincell: block count too many!\n");
 
-//map_freeblock_lock();	// ƒƒ‚ƒŠ‚©‚ç‚Ì‰ğ•ú‚ğ‹Ö~‚·‚é
+//map_freeblock_lock();	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½Ö~ï¿½ï¿½ï¿½ï¿½
 
 	for (i = 0; i < blockcount; i++)
-		if (bl_list[i]->prev)	// —L?‚©‚Ç‚¤‚©ƒ`ƒFƒbƒN
+		if (bl_list[i]->prev)	// ï¿½L?ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½`ï¿½Fï¿½bï¿½N
 		{
 			va_list ap;
 			va_start(ap, type);
@@ -849,7 +849,7 @@ int map_foreachincellwithtraps(int (*func)(struct block_list*, va_list), int m, 
 			va_end(ap);
 		}
 
-	//map_freeblock_unlock();	// ‰ğ•ú‚ğ‹–‰Â‚·‚é
+	//map_freeblock_unlock();	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½
 
 	//bl_list_count = blockcount;
 	return returnCount;
@@ -968,7 +968,7 @@ int map_respawnmobs(int (*func)(struct block_list*, va_list), int m, int type, v
 		printf("map_foreachinarea: block count too many!\n");
 
 	for (i = 0; i < blockcount; i++)
-		if (bl_list[i]->prev)	// —L?‚©‚Ç‚¤‚©ƒ`ƒFƒbƒN
+		if (bl_list[i]->prev)	// ï¿½L?ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½`ï¿½Fï¿½bï¿½N
 			returnCount += func(bl_list[i], ap);
 
 	return returnCount;
@@ -1142,7 +1142,7 @@ int map_read() {//int id, const char *title, char bgm, int pvp, int spell, unsig
 	CALLOC(map, struct map_data, 65535);
 
 	for (i = 0; i < map_n && SQL_SUCCESS == SqlStmt_NextRow(stmt); i++) {
-		sprintf(mappath, "../ctkmaps/Accepted/%s", mapfile);
+		sprintf(mappath, "../rtkmaps/Accepted/%s", mapfile);
 		fp = fopen(mappath, "rb");
 
 		if (fp == NULL) {
@@ -1294,7 +1294,7 @@ int map_reload() {
 	map_n = SqlStmt_NumRows(stmt);
 
 	for (i = 0; i < map_n && SQL_SUCCESS == SqlStmt_NextRow(stmt); i++) {
-		sprintf(mappath, "../ctkmaps/Accepted/%s", mapfile);
+		sprintf(mappath, "../rtkmaps/Accepted/%s", mapfile);
 		fp = fopen(mappath, "rb");
 		blockcount = map[id].bxs * map[id].bys;
 
@@ -1646,7 +1646,7 @@ void do_term(void) {
 	//mobdb_term();
 	//sql_close();
 
-	printf("ClassicTK Map Server Shutdown.\n");
+	printf("RetroTK Map Server Shutdown.\n");
 	add_log("Shutdown.\n");
 }
 
@@ -1805,7 +1805,7 @@ int do_init(int argc, char** argv) {
 	//gcFixPrematureFrees();
 	set_default_input(command_input);
 	add_log("");
-	add_log("ClassicTK Map Server Started.\n");
+	add_log("RetroTK Map Server Started.\n");
 	sql_handle = Sql_Malloc();
 	if (sql_handle == NULL)
 	{
@@ -1868,7 +1868,7 @@ int do_init(int argc, char** argv) {
 	for (i = 0; i < MAX_GROUPS; i++) {
 		memset(groups[i], 0, sizeof(unsigned int) * MAX_GROUP_MEMBERS);
 	}
-	printf("ClassicTK Map Server is \033[1;32mready\033[0m! Listening at %d.\n", map_port);
+	printf("RetroTK Map Server is \033[1;32mready\033[0m! Listening at %d.\n", map_port);
 
 	add_log("Server Ready! Listening at %d.\n", map_port);
 #ifdef LOGGING_ENABLED
@@ -2569,7 +2569,7 @@ int map_reset_timer(int v1, int v2) {
 
 	if (reset <= 60000) { //Less than a minute remaining(gonna mass spell everyone)
 		if (diff >= 10000) { // every 10 seconds
-			sprintf(msg, "ClassicTK! Reset in %d seconds", reset / 1000);
+			sprintf(msg, "RetroTK! Reset in %d seconds", reset / 1000);
 			//clif_broadcast("---------------------------------------------------",-1);
 			clif_broadcast(msg, -1);
 			//clif_broadcast("---------------------------------------------------",-1);
@@ -2578,7 +2578,7 @@ int map_reset_timer(int v1, int v2) {
 	}
 	else if (reset <= 3600000) { // 60 mins
 		if (diff >= 300000) { // every 5 mins
-			sprintf(msg, "ClassicTK! Reset in %d minutes", reset / 60000);
+			sprintf(msg, "RetroTK! Reset in %d minutes", reset / 60000);
 			//clif_broadcast("---------------------------------------------------",-1);
 			clif_broadcast(msg, -1);
 			//clif_broadcast("---------------------------------------------------",-1);
@@ -2587,7 +2587,7 @@ int map_reset_timer(int v1, int v2) {
 	}
 	else if (reset > 3600000) { // every hour
 		if (diff >= 3600000) { // once every hour
-			sprintf(msg, "ClassicTK! Reset in %d hours", reset / 3600000);
+			sprintf(msg, "RetroTK! Reset in %d hours", reset / 3600000);
 			//clif_broadcast("---------------------------------------------------",-1);
 			clif_broadcast(msg, -1);
 			//clif_broadcast("---------------------------------------------------",-1);

@@ -389,7 +389,7 @@ InstanceTestNpc = {
 
 			setMap(
 				(warp_map + z) - 1,
-				"../ctkmaps/Accepted/TK" .. map .. ".map",
+				"../rtkmaps/Accepted/TK" .. map .. ".map",
 				instance_sets[instance_set_index].name .. " " .. player_cave_level,
 				0,
 				0,
