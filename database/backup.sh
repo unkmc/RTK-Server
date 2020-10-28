@@ -1,5 +1,5 @@
 #!/bin/bash
-dir=history
+dir=~/shared/database/history
 file=$dir/$(date +%Y-%m-%d-%H-%M-%S)_RTK.sql
 
 mysqldump --opt --add-drop-database --databases RTK > $file

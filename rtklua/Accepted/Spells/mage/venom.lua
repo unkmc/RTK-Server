@@ -1,3 +1,5 @@
+local _maxDamage = 2000
+
 venom_mage = {
 	cast = function(player, target)
 		local magicCost = 60
@@ -37,8 +39,8 @@ venom_mage = {
 	while_cast_1500 = function(target)
 		local damage = target.baseHealth *.01
 
-		if (damage > 1000) then
-			damage = 1000
+		if (damage > _maxDamage) then
+			damage = _maxDamage
 		end
 
 		if (damage < 1) then
